@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "ic_round-photo.svg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "filename" : "ic_round-photo 1.svg",
+      "idiom" : "universal"
+    },
+    {
+      "scale" : "3x",
+      "idiom" : "universal",
+      "filename" : "ic_round-photo 2.svg"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

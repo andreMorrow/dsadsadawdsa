@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "scale" : "1x",
+      "filename" : "ix_cancel.svg",
+      "idiom" : "universal"
+    },
+    {
+      "scale" : "2x",
+      "idiom" : "universal",
+      "filename" : "ix_cancel 1.svg"
+    },
+    {
+      "filename" : "ix_cancel 2.svg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}

@@ -1,0 +1,2107 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 77;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		ED0A25D72ECD263F00A1C0FE /* Antianthroleton.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED0A25D62ECD263F00A1C0FE /* Antianthroleton.swift */; };
+		ED15C3DB2EA5B06A00B81F8E /* Automemmatedeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED15C3DA2EA5B05E00B81F8E /* Automemmatedeck.swift */; };
+		ED15C3DE2EA5B49000B81F8E /* EFAutoScrollLabel in Frameworks */ = {isa = PBXBuildFile; productRef = ED15C3DD2EA5B49000B81F8E /* EFAutoScrollLabel */; };
+		ED15C4222EA6D31000B81F8E /* Analinkencegram.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED15C4212EA6D30600B81F8E /* Analinkencegram.swift */; };
+		ED15C4242EA6D31A00B81F8E /* Extratagistchain.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED15C4232EA6D31600B81F8E /* Extratagistchain.swift */; };
+		ED15C4262EA6D32000B81F8E /* Gynmediaancyphobia.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED15C4252EA6D31E00B81F8E /* Gynmediaancyphobia.swift */; };
+		ED15C4282EA6D33600B81F8E /* Virtbyteflowtheca.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED15C4272EA6D33400B81F8E /* Virtbyteflowtheca.swift */; };
+		ED15C42A2EA6D37100B81F8E /* Upvoccorevr.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED15C4292EA6D37100B81F8E /* Upvoccorevr.swift */; };
+		ED3D40322E833D9600FFFFFB /* Autotelehublite.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40312E833D8E00FFFFFB /* Autotelehublite.swift */; };
+		ED3D40352E833F4300FFFFFB /* Hemihackeoussaur.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40342E833F4300FFFFFB /* Hemihackeoussaur.swift */; };
+		ED3D40372E833F6800FFFFFB /* Emphysateox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40362E833F6500FFFFFB /* Emphysateox.swift */; };
+		ED3D403A2E8342B800FFFFFB /* Sugphysscopetion.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40392E8342B700FFFFFB /* Sugphysscopetion.swift */; };
+		ED3D403C2E8342BC00FFFFFB /* Netportcideing.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D403B2E8342BC00FFFFFB /* Netportcideing.swift */; };
+		ED3D403E2E83438000FFFFFB /* Intrafaclinenomy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D403D2E83437C00FFFFFB /* Intrafaclinenomy.swift */; };
+		ED3D40432E83595100FFFFFB /* Polychainversety.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40422E83595100FFFFFB /* Polychainversety.swift */; };
+		ED3D40462E83596300FFFFFB /* Paleobotwarego.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40452E83596300FFFFFB /* Paleobotwarego.swift */; };
+		ED3D40482E835A5C00FFFFFB /* Surmechappsy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40472E835A5700FFFFFB /* Surmechappsy.swift */; };
+		ED3D404B2E835F4900FFFFFB /* Metaactdomcracy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D404A2E835F4900FFFFFB /* Metaactdomcracy.swift */; };
+		ED3D404E2E835FDE00FFFFFB /* Bissectencyar.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D404D2E835FDE00FFFFFB /* Bissectencyar.swift */; };
+		ED3D40502E83612900FFFFFB /* Transbyteverseos.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D404F2E83612300FFFFFB /* Transbyteverseos.swift */; };
+		ED3D40532E8366F700FFFFFB /* Exmobmarkverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40522E8366F700FFFFFB /* Exmobmarkverse.swift */; };
+		ED3D40562E83671900FFFFFB /* Ectocloudetteon.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40552E83671900FFFFFB /* Ectocloudetteon.swift */; };
+		ED3D40592E8367BC00FFFFFB /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = ED3D40582E8367BC00FFFFFB /* Lottie */; };
+		ED3D405B2E83686800FFFFFB /* JumpLoading.json in Resources */ = {isa = PBXBuildFile; fileRef = ED3D405A2E83686800FFFFFB /* JumpLoading.json */; };
+		ED3D405E2E836A5500FFFFFB /* Netsitewaresy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D405D2E836A5400FFFFFB /* Netsitewaresy.swift */; };
+		ED3D40612E836A6800FFFFFB /* Endobyteistcide.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40602E836A6700FFFFFB /* Endobyteistcide.swift */; };
+		ED3D40642E836C8F00FFFFFB /* Macroflowiseity.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40632E836C8E00FFFFFB /* Macroflowiseity.swift */; };
+		ED3D40662E836DF000FFFFFB /* Adbitentmorph.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED3D40652E836DE700FFFFFB /* Adbitentmorph.swift */; };
+		ED47DA722E94B76D00DBA402 /* Promanlineix.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DA712E94B76D00DBA402 /* Promanlineix.swift */; };
+		ED47DA7B2E95AAE600DBA402 /* Ecourbkinpad.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DA7A2E95AAE600DBA402 /* Ecourbkinpad.swift */; };
+		ED47DA7E2E95AB3200DBA402 /* Unvirtcoreer.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DA7D2E95AB3000DBA402 /* Unvirtcoreer.swift */; };
+		ED47DB862E95B22700DBA402 /* Archaeophonnomyition.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DB852E95B22700DBA402 /* Archaeophonnomyition.swift */; };
+		ED47DB892E95B23900DBA402 /* Nonsynthgraphygen.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DB882E95B23900DBA402 /* Nonsynthgraphygen.swift */; };
+		ED47DB8C2E95BC5D00DBA402 /* Confacessology.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DB8B2E95BC5D00DBA402 /* Confacessology.swift */; };
+		ED47DC942E95EFEC00DBA402 /* Intrawaveixy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DC932E95EFEC00DBA402 /* Intrawaveixy.swift */; };
+		ED47DC962E95F93C00DBA402 /* Outsectantum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED47DC952E95F93B00DBA402 /* Outsectantum.swift */; };
+		ED4B49DC2E7AFC560046337F /* Synbytematecide.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49DB2E7AFC550046337F /* Synbytematecide.swift */; };
+		ED4B49DF2E7AFC600046337F /* Conchainancylab.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49DE2E7AFC5F0046337F /* Conchainancylab.swift */; };
+		ED4B49E22E7AFCBA0046337F /* Hypertheoessos.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49E12E7AFCBA0046337F /* Hypertheoessos.swift */; };
+		ED4B49E62E7AFDB20046337F /* Iquantioence.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49E52E7AFDB10046337F /* Iquantioence.swift */; };
+		ED4B49E92E7AFF750046337F /* Paralinkfitx.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49E82E7AFF750046337F /* Paralinkfitx.swift */; };
+		ED4B49EC2E7B02910046337F /* Quasicryptatemark.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49EB2E7B02900046337F /* Quasicryptatemark.swift */; };
+		ED4B49F12E7B05900046337F /* Counterarchityphyte.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49F02E7B05900046337F /* Counterarchityphyte.swift */; };
+		ED4B49F32E7B06420046337F /* Egramscopeition.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49F22E7B063E0046337F /* Egramscopeition.swift */; };
+		ED4B49F82E7B7A610046337F /* Homodotitisdeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49F72E7B7A610046337F /* Homodotitisdeck.swift */; };
+		ED4B49FE2E7B7AC20046337F /* Perimanencyos.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49FD2E7B7ABF0046337F /* Perimanencyos.swift */; };
+		ED4B4A002E7B7B080046337F /* Circumphillingment.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4B49FF2E7B7B040046337F /* Circumphillingment.swift */; };
+		ED4FF7932E8CBD4C00B19B6D /* Bismechzillasphere.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4FF7922E8CBD4C00B19B6D /* Bismechzillasphere.swift */; };
+		ED4FF7952E8CBD5900B19B6D /* Heterocircuitpayty.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4FF7942E8CBD5900B19B6D /* Heterocircuitpayty.swift */; };
+		ED4FF7982E8CBE7D00B19B6D /* Metametrverseverse.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4FF7972E8CBE7D00B19B6D /* Metametrverseverse.swift */; };
+		ED4FF79A2E8CBED000B19B6D /* Synmediacracycrat.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4FF7992E8CBED000B19B6D /* Synmediacracycrat.swift */; };
+		ED4FF79D2E8E0B0B00B19B6D /* Duomedilogyian.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4FF79C2E8E0B0B00B19B6D /* Duomedilogyian.swift */; };
+		ED4FF7A02E8E0B2400B19B6D /* Prelogfundus.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED4FF79F2E8E0B2400B19B6D /* Prelogfundus.swift */; };
+		ED51F37B2EB0506C00D1EA4F /* Supluccraty.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED51F37A2EB0506800D1EA4F /* Supluccraty.swift */; };
+		ED51F37D2EB0576400D1EA4F /* Isodomicscan.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED51F37C2EB0576400D1EA4F /* Isodomicscan.swift */; };
+		ED51F4B52EB155D000D1EA4F /* Itagbaseline.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED51F4B42EB155D000D1EA4F /* Itagbaseline.swift */; };
+		ED51F4B82EB155E700D1EA4F /* Downlaborifyial.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED51F4B72EB155E700D1EA4F /* Downlaborifyial.swift */; };
+		ED55FA202EEB1DB200144195 /* automobcideium.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED55FA1F2EEB1DB200144195 /* automobcideium.swift */; };
+		ED5C065D2EC1BCB900CB2A39 /* Nontagmorphor.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5C065C2EC1BCB600CB2A39 /* Nontagmorphor.swift */; };
+		ED5C07C42EC1D38E00CB2A39 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ED5C07C32EC1D38E00CB2A39 /* GoogleService-Info.plist */; };
+		ED5C08272EC1D46700CB2A39 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = ED5C08262EC1D46700CB2A39 /* FirebaseCrashlytics */; };
+		ED5C08292EC1D46700CB2A39 /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = ED5C08282EC1D46700CB2A39 /* FirebaseRemoteConfig */; };
+		ED5C09312EC1D79800CB2A39 /* Ofastrolinesome.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5C09302EC1D79200CB2A39 /* Ofastrolinesome.swift */; };
+		ED5C09332EC1D7B400CB2A39 /* Ectorobotzaess.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5C09322EC1D7B100CB2A39 /* Ectorobotzaess.swift */; };
+		ED5C09382EC1D91C00CB2A39 /* AmplitudeSwift in Frameworks */ = {isa = PBXBuildFile; productRef = ED5C09372EC1D91C00CB2A39 /* AmplitudeSwift */; };
+		ED64A07F2E85FD6900346F7C /* Neuroarchixware.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A07E2E85FD6900346F7C /* Neuroarchixware.swift */; };
+		ED64A0812E85FE0D00346F7C /* Biscardiantup.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A0802E85FE0C00346F7C /* Biscardiantup.swift */; };
+		ED64A0842E85FEBD00346F7C /* Microcognkinout.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A0832E85FEBD00346F7C /* Microcognkinout.swift */; };
+		ED64A0872E86029900346F7C /* Sufaeroiumum.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A0862E86029800346F7C /* Sufaeroiumum.swift */; };
+		ED64A08A2E86034300346F7C /* Apoplasmiblebot.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A0892E86033F00346F7C /* Apoplasmiblebot.swift */; };
+		ED64A0942E860ACF00346F7C /* Macroradgenesisar.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A0932E860ACC00346F7C /* Macroradgenesisar.swift */; };
+		ED64A0972E860F0C00346F7C /* Idiooptkinin.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A0962E860F0700346F7C /* Idiooptkinin.swift */; };
+		ED64A09B2E86173B00346F7C /* Malblocklingloop.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED64A09A2E86173A00346F7C /* Malblocklingloop.swift */; };
+		ED6609DC2EE214E8006173B2 /* Retrooptorcracy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6609DB2EE214E7006173B2 /* Retrooptorcracy.swift */; };
+		ED6609DE2EE2187F006173B2 /* Upsectisehub.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED6609DD2EE2187D006173B2 /* Upsectisehub.swift */; };
+		ED783B5B2EA0821600F721DC /* Bemanianox.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED783B5A2EA0821200F721DC /* Bemanianox.swift */; };
+		ED7DF7292ECDF99000C054A7 /* AppsFlyerLib in Frameworks */ = {isa = PBXBuildFile; productRef = ED7DF7282ECDF99000C054A7 /* AppsFlyerLib */; };
+		ED81D6422E885AB4009E2798 /* Metavoltendao.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6412E885AB4009E2798 /* Metavoltendao.swift */; };
+		ED81D6452E885ACB009E2798 /* Idionetzymeza.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6442E885AC7009E2798 /* Idionetzymeza.swift */; };
+		ED81D6472E885C1A009E2798 /* Duodermboxin.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6462E885C15009E2798 /* Duodermboxin.swift */; };
+		ED81D6492E8861BA009E2798 /* Compageicalous.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6482E8861B6009E2798 /* Compageicalous.swift */; };
+		ED81D64B2E8861F5009E2798 /* Abselecbasement.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D64A2E8861F1009E2798 /* Abselecbasement.swift */; };
+		ED81D64E2E886CA7009E2798 /* Infohydrishacy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D64D2E886CA2009E2798 /* Infohydrishacy.swift */; };
+		ED81D6522E88816D009E2798 /* Synolinguatedom.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6512E88816D009E2798 /* Synolinguatedom.swift */; };
+		ED81D6552E88819E009E2798 /* Multianthrofundza.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6542E88819E009E2798 /* Multianthrofundza.swift */; };
+		ED81D65C2E8882A6009E2798 /* Orthositeletful.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D65B2E8882A6009E2798 /* Orthositeletful.swift */; };
+		ED81D65F2E8888E2009E2798 /* Supcosmcidezyme.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D65E2E8888E2009E2798 /* Supcosmcidezyme.swift */; };
+		ED81D6622E8888F6009E2798 /* Ialtalscope.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6612E8888F6009E2798 /* Ialtalscope.swift */; };
+		ED81D6672E88A632009E2798 /* Homobotifyscope.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6662E88A631009E2798 /* Homobotifyscope.swift */; };
+		ED81D66A2E88A648009E2798 /* Acircuitishure.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6692E88A648009E2798 /* Acircuitishure.swift */; };
+		ED81D66C2E88A9A8009E2798 /* Quantfusionnomyation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D66B2E88A9A2009E2798 /* Quantfusionnomyation.swift */; };
+		ED81D6702E88AF9A009E2798 /* Macrotrendsterzo.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D66F2E88AF9A009E2798 /* Macrotrendsterzo.swift */; };
+		ED81D6722E88BAC3009E2798 /* Millicyberchainmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6712E88BABE009E2798 /* Millicyberchainmark.swift */; };
+		ED81D6762E89A14F009E2798 /* Overmetagraphyar.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6752E89A14F009E2798 /* Overmetagraphyar.swift */; };
+		ED81D6782E89A3EA009E2798 /* Comannentdrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6772E89A3E5009E2798 /* Comannentdrop.swift */; };
+		ED81D67A2E89AD32009E2798 /* Paraphotoitydrop.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6792E89AD31009E2798 /* Paraphotoitydrop.swift */; };
+		ED81D67E2E89CB63009E2798 /* Macroactverseline.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D67D2E89CB60009E2798 /* Macroactverseline.swift */; };
+		ED81D6812E89D44B009E2798 /* Underservappsphere.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6802E89D44B009E2798 /* Underservappsphere.swift */; };
+		ED81D6842E89D45D009E2798 /* Quasinomixgraphy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6832E89D45D009E2798 /* Quasinomixgraphy.swift */; };
+		ED81D6872E89D69B009E2798 /* delete.json in Resources */ = {isa = PBXBuildFile; fileRef = ED81D6862E89D69B009E2798 /* delete.json */; };
+		ED81D68A2E89E66E009E2798 /* Apodemotokensphere.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D6892E89E66A009E2798 /* Apodemotokensphere.swift */; };
+		ED81D68D2E89E685009E2798 /* Cyberservtronness.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D68C2E89E685009E2798 /* Cyberservtronness.swift */; };
+		ED81D68F2E89EA01009E2798 /* Demanneter.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED81D68E2E89E9FE009E2798 /* Demanneter.swift */; };
+		ED834C712E8F4B6900FFABF6 /* Opmicrohubtomy.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED834C702E8F4B6900FFABF6 /* Opmicrohubtomy.swift */; };
+		ED834C742E8F4B7B00FFABF6 /* Panappioous.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED834C732E8F4B7A00FFABF6 /* Panappioous.swift */; };
+		ED834C772E8F4D9100FFABF6 /* Milliagriifyfit.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED834C762E8F4D9100FFABF6 /* Milliagriifyfit.swift */; };
+		ED839C732E7AE88F007DB379 /* Heterospamishus.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED839C692E7AE88F007DB379 /* Heterospamishus.swift */; };
+		ED839C752E7AE88F007DB379 /* Inagrifitcast.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED839C712E7AE88F007DB379 /* Inagrifitcast.swift */; };
+		ED839C762E7AE88F007DB379 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ED839C6A2E7AE88F007DB379 /* Assets.xcassets */; };
+		ED839C782E7AE88F007DB379 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ED839C6D2E7AE88F007DB379 /* LaunchScreen.storyboard */; };
+		ED839C832E7AF969007DB379 /* Congeosomeation.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED839C822E7AF969007DB379 /* Congeosomeation.swift */; };
+		ED839C852E7AF971007DB379 /* Exotagianess.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED839C842E7AF971007DB379 /* Exotagianess.swift */; };
+		ED839C882E7AF996007DB379 /* SnapKit in Frameworks */ = {isa = PBXBuildFile; productRef = ED839C872E7AF996007DB379 /* SnapKit */; };
+		EDA49CFB2E90A79900523C36 /* Anglotechlogyline.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDA49CFA2E90A79600523C36 /* Anglotechlogyline.swift */; };
+		EDBDCBD02E9D039200C3898C /* Megasociityin.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBCF2E9D038E00C3898C /* Megasociityin.swift */; };
+		EDBDCBD32E9D354900C3898C /* Downspirfulmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBD22E9D354400C3898C /* Downspirfulmark.swift */; };
+		EDBDCBD62E9D35C000C3898C /* Comtrendizesome.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBD52E9D35C000C3898C /* Comtrendizesome.swift */; };
+		EDBDCBD82E9D5A2400C3898C /* Absflowtronure.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBD72E9D5A1D00C3898C /* Absflowtronure.swift */; };
+		EDBDCBDA2E9D5E3200C3898C /* Quantdevityed.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBD92E9D5E3000C3898C /* Quantdevityed.swift */; };
+		EDBDCBDC2E9D5E3D00C3898C /* Precardiiousium.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBDB2E9D5E3400C3898C /* Precardiiousium.swift */; };
+		EDBDCBDF2E9D616A00C3898C /* Maxichaingendrive.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBDE2E9D614D00C3898C /* Maxichaingendrive.swift */; };
+		EDBDCBE12E9D641B00C3898C /* Angloclouddeckeous.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBE02E9D641300C3898C /* Angloclouddeckeous.swift */; };
+		EDBDCBE52E9D848000C3898C /* Counterauddropmark.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBE42E9D848000C3898C /* Counterauddropmark.swift */; };
+		EDBDCBEA2E9D856E00C3898C /* Comnucleoflowance.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBE92E9D856D00C3898C /* Comnucleoflowance.swift */; };
+		EDBDCBEE2E9DCBC200C3898C /* Macroliberscopeox.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBED2E9DCBBC00C3898C /* Macroliberscopeox.swift */; };
+		EDBDCBF12E9DCC0E00C3898C /* Overmachdoitis.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBF02E9DCC0D00C3898C /* Overmachdoitis.swift */; };
+		EDBDCBF32E9DCFC600C3898C /* Sustheoiouschain.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCBF22E9DCFC200C3898C /* Sustheoiouschain.swift */; };
+		EDBDCE132E9DDD1000C3898C /* Apotelecorecast.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCE122E9DDD1000C3898C /* Apotelecorecast.swift */; };
+		EDBDCE152E9DDD1E00C3898C /* Cyberspamicance.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCE142E9DDD1C00C3898C /* Cyberspamicance.swift */; };
+		EDBDCE182E9DDE2500C3898C /* Perilinkhubphile.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCE172E9DDE2500C3898C /* Perilinkhubphile.swift */; };
+		EDBDCF262E9EAD9A00C3898C /* Shuffle in Frameworks */ = {isa = PBXBuildFile; productRef = EDBDCF252E9EAD9A00C3898C /* Shuffle */; };
+		EDBDCF2B2E9EB56900C3898C /* Translucativeset.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF2A2E9EB56300C3898C /* Translucativeset.swift */; };
+		EDBDCF2E2E9EB57700C3898C /* Ectolumonvr.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF2D2E9EB57700C3898C /* Ectolumonvr.swift */; };
+		EDBDCF352E9EE63500C3898C /* Forewavefundian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF342E9EE63400C3898C /* Forewavefundian.swift */; };
+		EDBDCF392E9EE65000C3898C /* ExoAIlogyzilla.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF382E9EE65000C3898C /* ExoAIlogyzilla.swift */; };
+		EDBDCF3B2E9EEB8300C3898C /* Maxilogishpad.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF3A2E9EEB8200C3898C /* Maxilogishpad.swift */; };
+		EDBDCF3D2E9EF46C00C3898C /* Retroradtronure.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF3C2E9EF46900C3898C /* Retroradtronure.swift */; };
+		EDBDCF402E9F0B7E00C3898C /* Suprapolyianin.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF3F2E9F0B7E00C3898C /* Suprapolyianin.swift */; };
+		EDBDCF452E9F0BAC00C3898C /* Sufvoczillatoken.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF442E9F0BAC00C3898C /* Sufvoczillatoken.swift */; };
+		EDBDCF4A2E9F106200C3898C /* Neocodedaomark.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF492E9F106200C3898C /* Neocodedaomark.swift */; };
+		EDBDCF4E2E9F108700C3898C /* Infraonymifyed.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF4D2E9F107B00C3898C /* Infraonymifyed.swift */; };
+		EDBDCF502E9F13D300C3898C /* Paleolaseryial.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF4F2E9F13D100C3898C /* Paleolaseryial.swift */; };
+		EDBDCF542E9F1EF000C3898C /* Megadotytron.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF532E9F1EF000C3898C /* Megadotytron.swift */; };
+		EDBDCF562E9F1F0300C3898C /* Archlinguishition.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF552E9F1F0300C3898C /* Archlinguishition.swift */; };
+		EDBDCF582E9F331A00C3898C /* Monoparticlingar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF572E9F331A00C3898C /* Monoparticlingar.swift */; };
+		EDBDCF5B2E9F335000C3898C /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = EDBDCF5A2E9F335000C3898C /* Alamofire */; };
+		EDBDCF5D2E9F33D400C3898C /* Comnodescopeify.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF5C2E9F33D300C3898C /* Comnodescopeify.swift */; };
+		EDBDCF622E9F34EA00C3898C /* Adapty in Frameworks */ = {isa = PBXBuildFile; productRef = EDBDCF612E9F34EA00C3898C /* Adapty */; };
+		EDBDCF642E9F36E700C3898C /* Outnattokenvr.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF632E9F36DF00C3898C /* Outnattokenvr.swift */; };
+		EDBDCF6B2E9F444400C3898C /* Upspirletar.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDCF6A2E9F444000C3898C /* Upspirletar.swift */; };
+		EDBDD1782EA05B5D00C3898C /* Xliberlyical.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDD1772EA05B5D00C3898C /* Xliberlyical.swift */; };
+		EDBDD17A2EA05D5A00C3898C /* Xenomicrodoian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDBDD1792EA05D5900C3898C /* Xenomicrodoian.swift */; };
+		EDC3248C2EA1793800CB3F27 /* Microvidalcast.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDC3248B2EA1793800CB3F27 /* Microvidalcast.swift */; };
+		EDD994BA2ED487E6009A5C5B /* Microfluismess.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD994B92ED487E6009A5C5B /* Microfluismess.swift */; };
+		EDD994BC2ED4880A009A5C5B /* Benegraphousgo.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD994BB2ED4880A009A5C5B /* Benegraphousgo.swift */; };
+		EDD994BE2ED488A6009A5C5B /* Metauserkinware.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD994BD2ED488A6009A5C5B /* Metauserkinware.swift */; };
+		EDD994C02ED488D8009A5C5B /* Xenocosmletzone.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD994BF2ED488D7009A5C5B /* Xenocosmletzone.swift */; };
+		EDD995BA2ED499FA009A5C5B /* Imdigitistness.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995B92ED499FA009A5C5B /* Imdigitistness.swift */; };
+		EDD995BE2ED49B47009A5C5B /* Counterhubwarechain.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995BD2ED49B47009A5C5B /* Counterhubwarechain.swift */; };
+		EDD995C02ED49B55009A5C5B /* Retromagnloopox.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995BF2ED49B55009A5C5B /* Retromagnloopox.swift */; };
+		EDD995C32ED49BB6009A5C5B /* Metadigitancegram.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995C22ED49BB6009A5C5B /* Metadigitancegram.swift */; };
+		EDD995C62ED49C6C009A5C5B /* Zip in Frameworks */ = {isa = PBXBuildFile; productRef = EDD995C52ED49C6C009A5C5B /* Zip */; };
+		EDD995C82ED49D02009A5C5B /* Epibiozoest.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995C72ED49D02009A5C5B /* Epibiozoest.swift */; };
+		EDD995CC2ED49D6F009A5C5B /* Undevzonehood.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995CB2ED49D6F009A5C5B /* Undevzonehood.swift */; };
+		EDD995CF2ED49E03009A5C5B /* Upstreamifybase.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995CE2ED49E03009A5C5B /* Upstreamifybase.swift */; };
+		EDD995D12ED49E1E009A5C5B /* Quadriannzonephor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995D02ED49E1E009A5C5B /* Quadriannzonephor.swift */; };
+		EDD995D32ED49E67009A5C5B /* Conucleoizetomy.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995D22ED49E67009A5C5B /* Conucleoizetomy.swift */; };
+		EDD995D52ED49E74009A5C5B /* Homophonnessus.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995D42ED49E73009A5C5B /* Homophonnessus.swift */; };
+		EDD995D82ED49EF9009A5C5B /* Paraappfitos.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995D72ED49EEF009A5C5B /* Paraappfitos.swift */; };
+		EDD995DB2ED49F89009A5C5B /* Synfileableian.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995DA2ED49F89009A5C5B /* Synfileableian.swift */; };
+		EDD995DD2ED49F9F009A5C5B /* Millitechifyence.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995DC2ED49F9F009A5C5B /* Millitechifyence.swift */; };
+		EDD995DF2ED49FC3009A5C5B /* Maldevworklogy.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995DE2ED49FC3009A5C5B /* Maldevworklogy.swift */; };
+		EDD995E22ED4A0B7009A5C5B /* Outmachappware.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995E12ED4A0B7009A5C5B /* Outmachappware.swift */; };
+		EDD9994F2ED5D345009A5C5B /* Neocryptcorephyte.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD9994E2ED5D33F009A5C5B /* Neocryptcorephyte.swift */; };
+		EDD999512ED5D378009A5C5B /* Unhubcastlogy.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD999502ED5D378009A5C5B /* Unhubcastlogy.swift */; };
+		EDE309D32EBAE0BA00A09703 /* Telelinguifydeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE309D22EBAE0BA00A09703 /* Telelinguifydeck.swift */; };
+		EDE309D62EBB0D5400A09703 /* Amultienlogy.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE309D52EBB0D5400A09703 /* Amultienlogy.swift */; };
+		EDE309D92EBB0D6500A09703 /* Rememnomyor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE309D82EBB0D6500A09703 /* Rememnomyor.swift */; };
+		EDE7C7BD2EEA0D3C0047B048 /* Eportacysome.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE7C7BC2EEA0D390047B048 /* Eportacysome.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		ED0A25D62ECD263F00A1C0FE /* Antianthroleton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Antianthroleton.swift; sourceTree = "<group>"; };
+		ED15C3DA2EA5B05E00B81F8E /* Automemmatedeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Automemmatedeck.swift; sourceTree = "<group>"; };
+		ED15C4212EA6D30600B81F8E /* Analinkencegram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Analinkencegram.swift; sourceTree = "<group>"; };
+		ED15C4232EA6D31600B81F8E /* Extratagistchain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extratagistchain.swift; sourceTree = "<group>"; };
+		ED15C4252EA6D31E00B81F8E /* Gynmediaancyphobia.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gynmediaancyphobia.swift; sourceTree = "<group>"; };
+		ED15C4272EA6D33400B81F8E /* Virtbyteflowtheca.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Virtbyteflowtheca.swift; sourceTree = "<group>"; };
+		ED15C4292EA6D37100B81F8E /* Upvoccorevr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Upvoccorevr.swift; sourceTree = "<group>"; };
+		ED3D40312E833D8E00FFFFFB /* Autotelehublite.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Autotelehublite.swift; sourceTree = "<group>"; };
+		ED3D40342E833F4300FFFFFB /* Hemihackeoussaur.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hemihackeoussaur.swift; sourceTree = "<group>"; };
+		ED3D40362E833F6500FFFFFB /* Emphysateox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Emphysateox.swift; sourceTree = "<group>"; };
+		ED3D40392E8342B700FFFFFB /* Sugphysscopetion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sugphysscopetion.swift; sourceTree = "<group>"; };
+		ED3D403B2E8342BC00FFFFFB /* Netportcideing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Netportcideing.swift; sourceTree = "<group>"; };
+		ED3D403D2E83437C00FFFFFB /* Intrafaclinenomy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intrafaclinenomy.swift; sourceTree = "<group>"; };
+		ED3D40422E83595100FFFFFB /* Polychainversety.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Polychainversety.swift; sourceTree = "<group>"; };
+		ED3D40452E83596300FFFFFB /* Paleobotwarego.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paleobotwarego.swift; sourceTree = "<group>"; };
+		ED3D40472E835A5700FFFFFB /* Surmechappsy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Surmechappsy.swift; sourceTree = "<group>"; };
+		ED3D404A2E835F4900FFFFFB /* Metaactdomcracy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metaactdomcracy.swift; sourceTree = "<group>"; };
+		ED3D404D2E835FDE00FFFFFB /* Bissectencyar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bissectencyar.swift; sourceTree = "<group>"; };
+		ED3D404F2E83612300FFFFFB /* Transbyteverseos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transbyteverseos.swift; sourceTree = "<group>"; };
+		ED3D40522E8366F700FFFFFB /* Exmobmarkverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exmobmarkverse.swift; sourceTree = "<group>"; };
+		ED3D40552E83671900FFFFFB /* Ectocloudetteon.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ectocloudetteon.swift; sourceTree = "<group>"; };
+		ED3D405A2E83686800FFFFFB /* JumpLoading.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = JumpLoading.json; sourceTree = "<group>"; };
+		ED3D405D2E836A5400FFFFFB /* Netsitewaresy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Netsitewaresy.swift; sourceTree = "<group>"; };
+		ED3D40602E836A6700FFFFFB /* Endobyteistcide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Endobyteistcide.swift; sourceTree = "<group>"; };
+		ED3D40632E836C8E00FFFFFB /* Macroflowiseity.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Macroflowiseity.swift; sourceTree = "<group>"; };
+		ED3D40652E836DE700FFFFFB /* Adbitentmorph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Adbitentmorph.swift; sourceTree = "<group>"; };
+		ED47DA712E94B76D00DBA402 /* Promanlineix.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Promanlineix.swift; sourceTree = "<group>"; };
+		ED47DA7A2E95AAE600DBA402 /* Ecourbkinpad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ecourbkinpad.swift; sourceTree = "<group>"; };
+		ED47DA7D2E95AB3000DBA402 /* Unvirtcoreer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unvirtcoreer.swift; sourceTree = "<group>"; };
+		ED47DB852E95B22700DBA402 /* Archaeophonnomyition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Archaeophonnomyition.swift; sourceTree = "<group>"; };
+		ED47DB882E95B23900DBA402 /* Nonsynthgraphygen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nonsynthgraphygen.swift; sourceTree = "<group>"; };
+		ED47DB8B2E95BC5D00DBA402 /* Confacessology.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Confacessology.swift; sourceTree = "<group>"; };
+		ED47DC932E95EFEC00DBA402 /* Intrawaveixy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Intrawaveixy.swift; sourceTree = "<group>"; };
+		ED47DC952E95F93B00DBA402 /* Outsectantum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Outsectantum.swift; sourceTree = "<group>"; };
+		ED4B49DB2E7AFC550046337F /* Synbytematecide.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Synbytematecide.swift; sourceTree = "<group>"; };
+		ED4B49DE2E7AFC5F0046337F /* Conchainancylab.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conchainancylab.swift; sourceTree = "<group>"; };
+		ED4B49E12E7AFCBA0046337F /* Hypertheoessos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hypertheoessos.swift; sourceTree = "<group>"; };
+		ED4B49E52E7AFDB10046337F /* Iquantioence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Iquantioence.swift; sourceTree = "<group>"; };
+		ED4B49E82E7AFF750046337F /* Paralinkfitx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paralinkfitx.swift; sourceTree = "<group>"; };
+		ED4B49EB2E7B02900046337F /* Quasicryptatemark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quasicryptatemark.swift; sourceTree = "<group>"; };
+		ED4B49F02E7B05900046337F /* Counterarchityphyte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Counterarchityphyte.swift; sourceTree = "<group>"; };
+		ED4B49F22E7B063E0046337F /* Egramscopeition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Egramscopeition.swift; sourceTree = "<group>"; };
+		ED4B49F72E7B7A610046337F /* Homodotitisdeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homodotitisdeck.swift; sourceTree = "<group>"; };
+		ED4B49FD2E7B7ABF0046337F /* Perimanencyos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Perimanencyos.swift; sourceTree = "<group>"; };
+		ED4B49FF2E7B7B040046337F /* Circumphillingment.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Circumphillingment.swift; sourceTree = "<group>"; };
+		ED4FF7922E8CBD4C00B19B6D /* Bismechzillasphere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bismechzillasphere.swift; sourceTree = "<group>"; };
+		ED4FF7942E8CBD5900B19B6D /* Heterocircuitpayty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heterocircuitpayty.swift; sourceTree = "<group>"; };
+		ED4FF7972E8CBE7D00B19B6D /* Metametrverseverse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metametrverseverse.swift; sourceTree = "<group>"; };
+		ED4FF7992E8CBED000B19B6D /* Synmediacracycrat.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Synmediacracycrat.swift; sourceTree = "<group>"; };
+		ED4FF79C2E8E0B0B00B19B6D /* Duomedilogyian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duomedilogyian.swift; sourceTree = "<group>"; };
+		ED4FF79F2E8E0B2400B19B6D /* Prelogfundus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prelogfundus.swift; sourceTree = "<group>"; };
+		ED51F37A2EB0506800D1EA4F /* Supluccraty.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Supluccraty.swift; sourceTree = "<group>"; };
+		ED51F37C2EB0576400D1EA4F /* Isodomicscan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Isodomicscan.swift; sourceTree = "<group>"; };
+		ED51F4B42EB155D000D1EA4F /* Itagbaseline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Itagbaseline.swift; sourceTree = "<group>"; };
+		ED51F4B72EB155E700D1EA4F /* Downlaborifyial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Downlaborifyial.swift; sourceTree = "<group>"; };
+		ED55FA1F2EEB1DB200144195 /* automobcideium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = automobcideium.swift; sourceTree = "<group>"; };
+		ED5C065C2EC1BCB600CB2A39 /* Nontagmorphor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nontagmorphor.swift; sourceTree = "<group>"; };
+		ED5C07C32EC1D38E00CB2A39 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		ED5C09302EC1D79200CB2A39 /* Ofastrolinesome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ofastrolinesome.swift; sourceTree = "<group>"; };
+		ED5C09322EC1D7B100CB2A39 /* Ectorobotzaess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ectorobotzaess.swift; sourceTree = "<group>"; };
+		ED64A07E2E85FD6900346F7C /* Neuroarchixware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neuroarchixware.swift; sourceTree = "<group>"; };
+		ED64A0802E85FE0C00346F7C /* Biscardiantup.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Biscardiantup.swift; sourceTree = "<group>"; };
+		ED64A0832E85FEBD00346F7C /* Microcognkinout.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Microcognkinout.swift; sourceTree = "<group>"; };
+		ED64A0862E86029800346F7C /* Sufaeroiumum.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sufaeroiumum.swift; sourceTree = "<group>"; };
+		ED64A0892E86033F00346F7C /* Apoplasmiblebot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apoplasmiblebot.swift; sourceTree = "<group>"; };
+		ED64A0932E860ACC00346F7C /* Macroradgenesisar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Macroradgenesisar.swift; sourceTree = "<group>"; };
+		ED64A0962E860F0700346F7C /* Idiooptkinin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Idiooptkinin.swift; sourceTree = "<group>"; };
+		ED64A09A2E86173A00346F7C /* Malblocklingloop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Malblocklingloop.swift; sourceTree = "<group>"; };
+		ED6609DB2EE214E7006173B2 /* Retrooptorcracy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retrooptorcracy.swift; sourceTree = "<group>"; };
+		ED6609DD2EE2187D006173B2 /* Upsectisehub.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Upsectisehub.swift; sourceTree = "<group>"; };
+		ED783B5A2EA0821200F721DC /* Bemanianox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bemanianox.swift; sourceTree = "<group>"; };
+		ED81D6412E885AB4009E2798 /* Metavoltendao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metavoltendao.swift; sourceTree = "<group>"; };
+		ED81D6442E885AC7009E2798 /* Idionetzymeza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Idionetzymeza.swift; sourceTree = "<group>"; };
+		ED81D6462E885C15009E2798 /* Duodermboxin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Duodermboxin.swift; sourceTree = "<group>"; };
+		ED81D6482E8861B6009E2798 /* Compageicalous.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Compageicalous.swift; sourceTree = "<group>"; };
+		ED81D64A2E8861F1009E2798 /* Abselecbasement.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Abselecbasement.swift; sourceTree = "<group>"; };
+		ED81D64D2E886CA2009E2798 /* Infohydrishacy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Infohydrishacy.swift; sourceTree = "<group>"; };
+		ED81D6512E88816D009E2798 /* Synolinguatedom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Synolinguatedom.swift; sourceTree = "<group>"; };
+		ED81D6542E88819E009E2798 /* Multianthrofundza.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Multianthrofundza.swift; sourceTree = "<group>"; };
+		ED81D65B2E8882A6009E2798 /* Orthositeletful.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Orthositeletful.swift; sourceTree = "<group>"; };
+		ED81D65E2E8888E2009E2798 /* Supcosmcidezyme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Supcosmcidezyme.swift; sourceTree = "<group>"; };
+		ED81D6612E8888F6009E2798 /* Ialtalscope.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ialtalscope.swift; sourceTree = "<group>"; };
+		ED81D6662E88A631009E2798 /* Homobotifyscope.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homobotifyscope.swift; sourceTree = "<group>"; };
+		ED81D6692E88A648009E2798 /* Acircuitishure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Acircuitishure.swift; sourceTree = "<group>"; };
+		ED81D66B2E88A9A2009E2798 /* Quantfusionnomyation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quantfusionnomyation.swift; sourceTree = "<group>"; };
+		ED81D66F2E88AF9A009E2798 /* Macrotrendsterzo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Macrotrendsterzo.swift; sourceTree = "<group>"; };
+		ED81D6712E88BABE009E2798 /* Millicyberchainmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Millicyberchainmark.swift; sourceTree = "<group>"; };
+		ED81D6752E89A14F009E2798 /* Overmetagraphyar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Overmetagraphyar.swift; sourceTree = "<group>"; };
+		ED81D6772E89A3E5009E2798 /* Comannentdrop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comannentdrop.swift; sourceTree = "<group>"; };
+		ED81D6792E89AD31009E2798 /* Paraphotoitydrop.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paraphotoitydrop.swift; sourceTree = "<group>"; };
+		ED81D67D2E89CB60009E2798 /* Macroactverseline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Macroactverseline.swift; sourceTree = "<group>"; };
+		ED81D6802E89D44B009E2798 /* Underservappsphere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Underservappsphere.swift; sourceTree = "<group>"; };
+		ED81D6832E89D45D009E2798 /* Quasinomixgraphy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quasinomixgraphy.swift; sourceTree = "<group>"; };
+		ED81D6862E89D69B009E2798 /* delete.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = delete.json; sourceTree = "<group>"; };
+		ED81D6892E89E66A009E2798 /* Apodemotokensphere.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apodemotokensphere.swift; sourceTree = "<group>"; };
+		ED81D68C2E89E685009E2798 /* Cyberservtronness.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cyberservtronness.swift; sourceTree = "<group>"; };
+		ED81D68E2E89E9FE009E2798 /* Demanneter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Demanneter.swift; sourceTree = "<group>"; };
+		ED834C702E8F4B6900FFABF6 /* Opmicrohubtomy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Opmicrohubtomy.swift; sourceTree = "<group>"; };
+		ED834C732E8F4B7A00FFABF6 /* Panappioous.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Panappioous.swift; sourceTree = "<group>"; };
+		ED834C762E8F4D9100FFABF6 /* Milliagriifyfit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Milliagriifyfit.swift; sourceTree = "<group>"; };
+		ED839C512E7AE888007DB379 /* Dralith.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Dralith.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		ED839C692E7AE88F007DB379 /* Heterospamishus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Heterospamishus.swift; sourceTree = "<group>"; };
+		ED839C6A2E7AE88F007DB379 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		ED839C6B2E7AE88F007DB379 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ED839C6C2E7AE88F007DB379 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ED839C712E7AE88F007DB379 /* Inagrifitcast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Inagrifitcast.swift; sourceTree = "<group>"; };
+		ED839C822E7AF969007DB379 /* Congeosomeation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Congeosomeation.swift; sourceTree = "<group>"; };
+		ED839C842E7AF971007DB379 /* Exotagianess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exotagianess.swift; sourceTree = "<group>"; };
+		EDA49CFA2E90A79600523C36 /* Anglotechlogyline.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Anglotechlogyline.swift; sourceTree = "<group>"; };
+		EDBDCBCF2E9D038E00C3898C /* Megasociityin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Megasociityin.swift; sourceTree = "<group>"; };
+		EDBDCBD22E9D354400C3898C /* Downspirfulmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Downspirfulmark.swift; sourceTree = "<group>"; };
+		EDBDCBD52E9D35C000C3898C /* Comtrendizesome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comtrendizesome.swift; sourceTree = "<group>"; };
+		EDBDCBD72E9D5A1D00C3898C /* Absflowtronure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Absflowtronure.swift; sourceTree = "<group>"; };
+		EDBDCBD92E9D5E3000C3898C /* Quantdevityed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quantdevityed.swift; sourceTree = "<group>"; };
+		EDBDCBDB2E9D5E3400C3898C /* Precardiiousium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Precardiiousium.swift; sourceTree = "<group>"; };
+		EDBDCBDE2E9D614D00C3898C /* Maxichaingendrive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maxichaingendrive.swift; sourceTree = "<group>"; };
+		EDBDCBE02E9D641300C3898C /* Angloclouddeckeous.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Angloclouddeckeous.swift; sourceTree = "<group>"; };
+		EDBDCBE42E9D848000C3898C /* Counterauddropmark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Counterauddropmark.swift; sourceTree = "<group>"; };
+		EDBDCBE92E9D856D00C3898C /* Comnucleoflowance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comnucleoflowance.swift; sourceTree = "<group>"; };
+		EDBDCBED2E9DCBBC00C3898C /* Macroliberscopeox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Macroliberscopeox.swift; sourceTree = "<group>"; };
+		EDBDCBF02E9DCC0D00C3898C /* Overmachdoitis.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Overmachdoitis.swift; sourceTree = "<group>"; };
+		EDBDCBF22E9DCFC200C3898C /* Sustheoiouschain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sustheoiouschain.swift; sourceTree = "<group>"; };
+		EDBDCE122E9DDD1000C3898C /* Apotelecorecast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Apotelecorecast.swift; sourceTree = "<group>"; };
+		EDBDCE142E9DDD1C00C3898C /* Cyberspamicance.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cyberspamicance.swift; sourceTree = "<group>"; };
+		EDBDCE172E9DDE2500C3898C /* Perilinkhubphile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Perilinkhubphile.swift; sourceTree = "<group>"; };
+		EDBDCF2A2E9EB56300C3898C /* Translucativeset.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Translucativeset.swift; sourceTree = "<group>"; };
+		EDBDCF2D2E9EB57700C3898C /* Ectolumonvr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ectolumonvr.swift; sourceTree = "<group>"; };
+		EDBDCF342E9EE63400C3898C /* Forewavefundian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Forewavefundian.swift; sourceTree = "<group>"; };
+		EDBDCF382E9EE65000C3898C /* ExoAIlogyzilla.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExoAIlogyzilla.swift; sourceTree = "<group>"; };
+		EDBDCF3A2E9EEB8200C3898C /* Maxilogishpad.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maxilogishpad.swift; sourceTree = "<group>"; };
+		EDBDCF3C2E9EF46900C3898C /* Retroradtronure.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retroradtronure.swift; sourceTree = "<group>"; };
+		EDBDCF3F2E9F0B7E00C3898C /* Suprapolyianin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Suprapolyianin.swift; sourceTree = "<group>"; };
+		EDBDCF442E9F0BAC00C3898C /* Sufvoczillatoken.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sufvoczillatoken.swift; sourceTree = "<group>"; };
+		EDBDCF492E9F106200C3898C /* Neocodedaomark.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neocodedaomark.swift; sourceTree = "<group>"; };
+		EDBDCF4D2E9F107B00C3898C /* Infraonymifyed.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Infraonymifyed.swift; sourceTree = "<group>"; };
+		EDBDCF4F2E9F13D100C3898C /* Paleolaseryial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paleolaseryial.swift; sourceTree = "<group>"; };
+		EDBDCF532E9F1EF000C3898C /* Megadotytron.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Megadotytron.swift; sourceTree = "<group>"; };
+		EDBDCF552E9F1F0300C3898C /* Archlinguishition.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Archlinguishition.swift; sourceTree = "<group>"; };
+		EDBDCF572E9F331A00C3898C /* Monoparticlingar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Monoparticlingar.swift; sourceTree = "<group>"; };
+		EDBDCF5C2E9F33D300C3898C /* Comnodescopeify.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Comnodescopeify.swift; sourceTree = "<group>"; };
+		EDBDCF632E9F36DF00C3898C /* Outnattokenvr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Outnattokenvr.swift; sourceTree = "<group>"; };
+		EDBDCF6A2E9F444000C3898C /* Upspirletar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Upspirletar.swift; sourceTree = "<group>"; };
+		EDBDD1772EA05B5D00C3898C /* Xliberlyical.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xliberlyical.swift; sourceTree = "<group>"; };
+		EDBDD1792EA05D5900C3898C /* Xenomicrodoian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xenomicrodoian.swift; sourceTree = "<group>"; };
+		EDC3248B2EA1793800CB3F27 /* Microvidalcast.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Microvidalcast.swift; sourceTree = "<group>"; };
+		EDD994B92ED487E6009A5C5B /* Microfluismess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Microfluismess.swift; sourceTree = "<group>"; };
+		EDD994BB2ED4880A009A5C5B /* Benegraphousgo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Benegraphousgo.swift; sourceTree = "<group>"; };
+		EDD994BD2ED488A6009A5C5B /* Metauserkinware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metauserkinware.swift; sourceTree = "<group>"; };
+		EDD994BF2ED488D7009A5C5B /* Xenocosmletzone.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Xenocosmletzone.swift; sourceTree = "<group>"; };
+		EDD995B92ED499FA009A5C5B /* Imdigitistness.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Imdigitistness.swift; sourceTree = "<group>"; };
+		EDD995BD2ED49B47009A5C5B /* Counterhubwarechain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Counterhubwarechain.swift; sourceTree = "<group>"; };
+		EDD995BF2ED49B55009A5C5B /* Retromagnloopox.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Retromagnloopox.swift; sourceTree = "<group>"; };
+		EDD995C22ED49BB6009A5C5B /* Metadigitancegram.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Metadigitancegram.swift; sourceTree = "<group>"; };
+		EDD995C72ED49D02009A5C5B /* Epibiozoest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Epibiozoest.swift; sourceTree = "<group>"; };
+		EDD995CB2ED49D6F009A5C5B /* Undevzonehood.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Undevzonehood.swift; sourceTree = "<group>"; };
+		EDD995CE2ED49E03009A5C5B /* Upstreamifybase.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Upstreamifybase.swift; sourceTree = "<group>"; };
+		EDD995D02ED49E1E009A5C5B /* Quadriannzonephor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quadriannzonephor.swift; sourceTree = "<group>"; };
+		EDD995D22ED49E67009A5C5B /* Conucleoizetomy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Conucleoizetomy.swift; sourceTree = "<group>"; };
+		EDD995D42ED49E73009A5C5B /* Homophonnessus.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Homophonnessus.swift; sourceTree = "<group>"; };
+		EDD995D72ED49EEF009A5C5B /* Paraappfitos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Paraappfitos.swift; sourceTree = "<group>"; };
+		EDD995DA2ED49F89009A5C5B /* Synfileableian.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Synfileableian.swift; sourceTree = "<group>"; };
+		EDD995DC2ED49F9F009A5C5B /* Millitechifyence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Millitechifyence.swift; sourceTree = "<group>"; };
+		EDD995DE2ED49FC3009A5C5B /* Maldevworklogy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Maldevworklogy.swift; sourceTree = "<group>"; };
+		EDD995E12ED4A0B7009A5C5B /* Outmachappware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Outmachappware.swift; sourceTree = "<group>"; };
+		EDD9994E2ED5D33F009A5C5B /* Neocryptcorephyte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neocryptcorephyte.swift; sourceTree = "<group>"; };
+		EDD999502ED5D378009A5C5B /* Unhubcastlogy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unhubcastlogy.swift; sourceTree = "<group>"; };
+		EDE309D22EBAE0BA00A09703 /* Telelinguifydeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Telelinguifydeck.swift; sourceTree = "<group>"; };
+		EDE309D52EBB0D5400A09703 /* Amultienlogy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amultienlogy.swift; sourceTree = "<group>"; };
+		EDE309D82EBB0D6500A09703 /* Rememnomyor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rememnomyor.swift; sourceTree = "<group>"; };
+		EDE7C7BC2EEA0D390047B048 /* Eportacysome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Eportacysome.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		ED839C4E2E7AE888007DB379 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED5C09382EC1D91C00CB2A39 /* AmplitudeSwift in Frameworks */,
+				ED7DF7292ECDF99000C054A7 /* AppsFlyerLib in Frameworks */,
+				ED15C3DE2EA5B49000B81F8E /* EFAutoScrollLabel in Frameworks */,
+				EDBDCF622E9F34EA00C3898C /* Adapty in Frameworks */,
+				EDBDCF5B2E9F335000C3898C /* Alamofire in Frameworks */,
+				ED5C08272EC1D46700CB2A39 /* FirebaseCrashlytics in Frameworks */,
+				EDD995C62ED49C6C009A5C5B /* Zip in Frameworks */,
+				EDBDCF262E9EAD9A00C3898C /* Shuffle in Frameworks */,
+				ED839C882E7AF996007DB379 /* SnapKit in Frameworks */,
+				ED3D40592E8367BC00FFFFFB /* Lottie in Frameworks */,
+				ED5C08292EC1D46700CB2A39 /* FirebaseRemoteConfig in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		ED15C4202EA6D2F900B81F8E /* ChooseDate */ = {
+			isa = PBXGroup;
+			children = (
+				ED15C4292EA6D37100B81F8E /* Upvoccorevr.swift */,
+				ED15C4272EA6D33400B81F8E /* Virtbyteflowtheca.swift */,
+				ED15C4252EA6D31E00B81F8E /* Gynmediaancyphobia.swift */,
+				ED15C4232EA6D31600B81F8E /* Extratagistchain.swift */,
+				ED15C4212EA6D30600B81F8E /* Analinkencegram.swift */,
+			);
+			path = ChooseDate;
+			sourceTree = "<group>";
+		};
+		ED3D40332E833E7200FFFFFB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40362E833F6500FFFFFB /* Emphysateox.swift */,
+				ED3D40342E833F4300FFFFFB /* Hemihackeoussaur.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		ED3D40382E8341FC00FFFFFB /* Product */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40392E8342B700FFFFFB /* Sugphysscopetion.swift */,
+				ED3D40312E833D8E00FFFFFB /* Autotelehublite.swift */,
+				ED3D403B2E8342BC00FFFFFB /* Netportcideing.swift */,
+			);
+			path = Product;
+			sourceTree = "<group>";
+		};
+		ED3D40412E83594D00FFFFFB /* Settings */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D404C2E835FDB00FFFFFB /* Models */,
+				ED3D40442E83595F00FFFFFB /* Views */,
+				ED3D40422E83595100FFFFFB /* Polychainversety.swift */,
+			);
+			path = Settings;
+			sourceTree = "<group>";
+		};
+		ED3D40442E83595F00FFFFFB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40492E835F0900FFFFFB /* Subviews */,
+				ED3D40452E83596300FFFFFB /* Paleobotwarego.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED3D40492E835F0900FFFFFB /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D404A2E835F4900FFFFFB /* Metaactdomcracy.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED3D404C2E835FDB00FFFFFB /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D404F2E83612300FFFFFB /* Transbyteverseos.swift */,
+				ED3D404D2E835FDE00FFFFFB /* Bissectencyar.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		ED3D40542E83671500FFFFFB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40552E83671900FFFFFB /* Ectocloudetteon.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED3D405C2E836A5000FFFFFB /* SpecialOffer */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D405F2E836A6400FFFFFB /* Views */,
+				ED3D405D2E836A5400FFFFFB /* Netsitewaresy.swift */,
+			);
+			path = SpecialOffer;
+			sourceTree = "<group>";
+		};
+		ED3D405F2E836A6400FFFFFB /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40622E836C8A00FFFFFB /* Subviews */,
+				ED3D40602E836A6700FFFFFB /* Endobyteistcide.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED3D40622E836C8A00FFFFFB /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				EDE309D22EBAE0BA00A09703 /* Telelinguifydeck.swift */,
+				ED3D40652E836DE700FFFFFB /* Adbitentmorph.swift */,
+				ED3D40632E836C8E00FFFFFB /* Macroflowiseity.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED47DA702E94B76700DBA402 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DA712E94B76D00DBA402 /* Promanlineix.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED47DA792E95AAE100DBA402 /* Duplicate */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DA7C2E95AAF900DBA402 /* Views */,
+				ED47DA7A2E95AAE600DBA402 /* Ecourbkinpad.swift */,
+			);
+			path = Duplicate;
+			sourceTree = "<group>";
+		};
+		ED47DA7C2E95AAF900DBA402 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DC922E95EFE300DBA402 /* Subviews */,
+				ED47DA7D2E95AB3000DBA402 /* Unvirtcoreer.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED47DB842E95B21B00DBA402 /* Incomplete */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DB872E95B23500DBA402 /* Views */,
+				ED47DB852E95B22700DBA402 /* Archaeophonnomyition.swift */,
+			);
+			path = Incomplete;
+			sourceTree = "<group>";
+		};
+		ED47DB872E95B23500DBA402 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DB8A2E95BC5800DBA402 /* Subviews */,
+				ED47DB882E95B23900DBA402 /* Nonsynthgraphygen.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED47DB8A2E95BC5800DBA402 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DB8B2E95BC5D00DBA402 /* Confacessology.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED47DC922E95EFE300DBA402 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DC932E95EFEC00DBA402 /* Intrawaveixy.swift */,
+				ED47DC952E95F93B00DBA402 /* Outsectantum.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED4B49DD2E7AFC590046337F /* PageVC */ = {
+			isa = PBXGroup;
+			children = (
+				ED4B49DE2E7AFC5F0046337F /* Conchainancylab.swift */,
+			);
+			path = PageVC;
+			sourceTree = "<group>";
+		};
+		ED4B49E02E7AFCB50046337F /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995C72ED49D02009A5C5B /* Epibiozoest.swift */,
+				ED0A25D62ECD263F00A1C0FE /* Antianthroleton.swift */,
+				EDBDCF5C2E9F33D300C3898C /* Comnodescopeify.swift */,
+				EDBDCF572E9F331A00C3898C /* Monoparticlingar.swift */,
+				EDA49CFA2E90A79600523C36 /* Anglotechlogyline.swift */,
+				ED81D68E2E89E9FE009E2798 /* Demanneter.swift */,
+				ED81D67D2E89CB60009E2798 /* Macroactverseline.swift */,
+				ED81D6482E8861B6009E2798 /* Compageicalous.swift */,
+				ED4B49E12E7AFCBA0046337F /* Hypertheoessos.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		ED4B49E42E7AFDAC0046337F /* Constants */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6462E885C15009E2798 /* Duodermboxin.swift */,
+				ED4B49E52E7AFDB10046337F /* Iquantioence.swift */,
+			);
+			path = Constants;
+			sourceTree = "<group>";
+		};
+		ED4B49E72E7AFF6F0046337F /* UIComponents */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D66E2E88AF95009E2798 /* TextFields */,
+				ED64A0852E86029500346F7C /* Cells */,
+				ED4B49EE2E7B03C70046337F /* Views */,
+				ED4B49ED2E7B03C10046337F /* Buttons */,
+			);
+			path = UIComponents;
+			sourceTree = "<group>";
+		};
+		ED4B49EA2E7B027E0046337F /* Typealiases */ = {
+			isa = PBXGroup;
+			children = (
+				ED4B49EB2E7B02900046337F /* Quasicryptatemark.swift */,
+			);
+			path = Typealiases;
+			sourceTree = "<group>";
+		};
+		ED4B49ED2E7B03C10046337F /* Buttons */ = {
+			isa = PBXGroup;
+			children = (
+				ED4B49E82E7AFF750046337F /* Paralinkfitx.swift */,
+			);
+			path = Buttons;
+			sourceTree = "<group>";
+		};
+		ED4B49EE2E7B03C70046337F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6772E89A3E5009E2798 /* Comannentdrop.swift */,
+				ED81D6712E88BABE009E2798 /* Millicyberchainmark.swift */,
+				ED81D66B2E88A9A2009E2798 /* Quantfusionnomyation.swift */,
+				ED64A0802E85FE0C00346F7C /* Biscardiantup.swift */,
+				ED3D40472E835A5700FFFFFB /* Surmechappsy.swift */,
+				ED3D403D2E83437C00FFFFFB /* Intrafaclinenomy.swift */,
+				ED4B49F22E7B063E0046337F /* Egramscopeition.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED4B49EF2E7B058B0046337F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				ED5C065C2EC1BCB600CB2A39 /* Nontagmorphor.swift */,
+				EDBDCF632E9F36DF00C3898C /* Outnattokenvr.swift */,
+				ED4B49F02E7B05900046337F /* Counterarchityphyte.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		ED4B49F62E7B7A5D0046337F /* Paywall */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40332E833E7200FFFFFB /* Models */,
+				ED4B49F92E7B7A710046337F /* Views */,
+				ED4B49F72E7B7A610046337F /* Homodotitisdeck.swift */,
+			);
+			path = Paywall;
+			sourceTree = "<group>";
+		};
+		ED4B49F92E7B7A710046337F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED4B49FC2E7B7AB90046337F /* Subviews */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED4B49FC2E7B7AB90046337F /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40382E8341FC00FFFFFB /* Product */,
+				ED4B49FF2E7B7B040046337F /* Circumphillingment.swift */,
+				ED4B49FD2E7B7ABF0046337F /* Perimanencyos.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED4FF7902E8CBD4300B19B6D /* Photos */ = {
+			isa = PBXGroup;
+			children = (
+				ED783B5A2EA0821200F721DC /* Bemanianox.swift */,
+				EDBDCBD12E9D354000C3898C /* Controllers */,
+				ED4FF7912E8CBD4800B19B6D /* Views */,
+				ED4FF7922E8CBD4C00B19B6D /* Bismechzillasphere.swift */,
+			);
+			path = Photos;
+			sourceTree = "<group>";
+		};
+		ED4FF7912E8CBD4800B19B6D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED4FF7942E8CBD5900B19B6D /* Heterocircuitpayty.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED4FF7962E8CBE7700B19B6D /* AlbumCell */ = {
+			isa = PBXGroup;
+			children = (
+				ED4FF7992E8CBED000B19B6D /* Synmediacracycrat.swift */,
+				ED4FF7972E8CBE7D00B19B6D /* Metametrverseverse.swift */,
+			);
+			path = AlbumCell;
+			sourceTree = "<group>";
+		};
+		ED4FF79B2E8E08F000B19B6D /* Guide */ = {
+			isa = PBXGroup;
+			children = (
+				ED4FF79E2E8E0B1E00B19B6D /* Views */,
+				ED4FF79C2E8E0B0B00B19B6D /* Duomedilogyian.swift */,
+			);
+			path = Guide;
+			sourceTree = "<group>";
+		};
+		ED4FF79E2E8E0B1E00B19B6D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED4FF79F2E8E0B2400B19B6D /* Prelogfundus.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED51F4B32EB155CA00D1EA4F /* Duplicate */ = {
+			isa = PBXGroup;
+			children = (
+				ED51F4B62EB155E200D1EA4F /* Views */,
+				ED51F4B42EB155D000D1EA4F /* Itagbaseline.swift */,
+			);
+			path = Duplicate;
+			sourceTree = "<group>";
+		};
+		ED51F4B62EB155E200D1EA4F /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED51F4B72EB155E700D1EA4F /* Downlaborifyial.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED64A07D2E85FD6300346F7C /* Home */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF6A2E9F444000C3898C /* Upspirletar.swift */,
+				ED64A0822E85FEBA00346F7C /* Views */,
+				ED64A07E2E85FD6900346F7C /* Neuroarchixware.swift */,
+			);
+			path = Home;
+			sourceTree = "<group>";
+		};
+		ED64A0822E85FEBA00346F7C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED64A0952E860F0200346F7C /* Subviews */,
+				ED64A0832E85FEBD00346F7C /* Microcognkinout.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED64A0852E86029500346F7C /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF4F2E9F13D100C3898C /* Paleolaseryial.swift */,
+				EDBDCF3C2E9EF46900C3898C /* Retroradtronure.swift */,
+				EDBDCF3A2E9EEB8200C3898C /* Maxilogishpad.swift */,
+				ED4FF7962E8CBE7700B19B6D /* AlbumCell */,
+				ED81D6742E89A14B009E2798 /* SelectableInfoCell */,
+				ED81D6732E89A142009E2798 /* MainCell */,
+			);
+			path = Cells;
+			sourceTree = "<group>";
+		};
+		ED64A0952E860F0200346F7C /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED15C3DA2EA5B05E00B81F8E /* Automemmatedeck.swift */,
+				ED64A09A2E86173A00346F7C /* Malblocklingloop.swift */,
+				ED64A0962E860F0700346F7C /* Idiooptkinin.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED6609DA2EE214E2006173B2 /* Onb */ = {
+			isa = PBXGroup;
+			children = (
+				ED6609DD2EE2187D006173B2 /* Upsectisehub.swift */,
+				ED6609DB2EE214E7006173B2 /* Retrooptorcracy.swift */,
+			);
+			path = Onb;
+			sourceTree = "<group>";
+		};
+		ED81D6402E885A4C009E2798 /* MainLoader */ = {
+			isa = PBXGroup;
+			children = (
+				ED3D40542E83671500FFFFFB /* Views */,
+				ED3D40522E8366F700FFFFFB /* Exmobmarkverse.swift */,
+			);
+			path = MainLoader;
+			sourceTree = "<group>";
+		};
+		ED81D6432E885AC4009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6442E885AC7009E2798 /* Idionetzymeza.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED81D64C2E886C9E009E2798 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBE72E9D850A00C3898C /* NoSwipeItems */,
+				ED81D67F2E89D441009E2798 /* Deleting */,
+				ED81D65D2E8888DB009E2798 /* WellDone */,
+				ED81D6572E88827F009E2798 /* AllClear */,
+				ED81D6562E888233009E2798 /* AccessPopUp */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		ED81D64F2E886CB1009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D64A2E8861F1009E2798 /* Abselecbasement.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED81D6502E888167009E2798 /* Contacts */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6642E88A5D3009E2798 /* Controllers */,
+				ED81D6532E888172009E2798 /* Views */,
+				ED81D6512E88816D009E2798 /* Synolinguatedom.swift */,
+			);
+			path = Contacts;
+			sourceTree = "<group>";
+		};
+		ED81D6532E888172009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6542E88819E009E2798 /* Multianthrofundza.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED81D6562E888233009E2798 /* AccessPopUp */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D64F2E886CB1009E2798 /* Views */,
+				ED81D64D2E886CA2009E2798 /* Infohydrishacy.swift */,
+			);
+			path = AccessPopUp;
+			sourceTree = "<group>";
+		};
+		ED81D6572E88827F009E2798 /* AllClear */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D65A2E88829A009E2798 /* Views */,
+			);
+			path = AllClear;
+			sourceTree = "<group>";
+		};
+		ED81D65A2E88829A009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D65B2E8882A6009E2798 /* Orthositeletful.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED81D65D2E8888DB009E2798 /* WellDone */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6602E8888E4009E2798 /* Views */,
+				ED81D65E2E8888E2009E2798 /* Supcosmcidezyme.swift */,
+			);
+			path = WellDone;
+			sourceTree = "<group>";
+		};
+		ED81D6602E8888E4009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6612E8888F6009E2798 /* Ialtalscope.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED81D6642E88A5D3009E2798 /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DB842E95B21B00DBA402 /* Incomplete */,
+				ED47DA792E95AAE100DBA402 /* Duplicate */,
+				ED81D6652E88A5D8009E2798 /* AllContacts */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		ED81D6652E88A5D8009E2798 /* AllContacts */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6682E88A634009E2798 /* Views */,
+				ED81D6662E88A631009E2798 /* Homobotifyscope.swift */,
+			);
+			path = AllContacts;
+			sourceTree = "<group>";
+		};
+		ED81D6682E88A634009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED47DA702E94B76700DBA402 /* Subviews */,
+				ED81D6692E88A648009E2798 /* Acircuitishure.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED81D66E2E88AF95009E2798 /* TextFields */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D66F2E88AF9A009E2798 /* Macrotrendsterzo.swift */,
+			);
+			path = TextFields;
+			sourceTree = "<group>";
+		};
+		ED81D6732E89A142009E2798 /* MainCell */ = {
+			isa = PBXGroup;
+			children = (
+				ED64A0932E860ACC00346F7C /* Macroradgenesisar.swift */,
+				ED64A0892E86033F00346F7C /* Apoplasmiblebot.swift */,
+				ED64A0862E86029800346F7C /* Sufaeroiumum.swift */,
+			);
+			path = MainCell;
+			sourceTree = "<group>";
+		};
+		ED81D6742E89A14B009E2798 /* SelectableInfoCell */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6792E89AD31009E2798 /* Paraphotoitydrop.swift */,
+				ED81D6752E89A14F009E2798 /* Overmetagraphyar.swift */,
+			);
+			path = SelectableInfoCell;
+			sourceTree = "<group>";
+		};
+		ED81D67F2E89D441009E2798 /* Deleting */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6822E89D458009E2798 /* Views */,
+				ED81D6802E89D44B009E2798 /* Underservappsphere.swift */,
+			);
+			path = Deleting;
+			sourceTree = "<group>";
+		};
+		ED81D6822E89D458009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6832E89D45D009E2798 /* Quasinomixgraphy.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED81D6852E89D697009E2798 /* Anim */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6862E89D69B009E2798 /* delete.json */,
+				ED3D405A2E83686800FFFFFB /* JumpLoading.json */,
+			);
+			path = Anim;
+			sourceTree = "<group>";
+		};
+		ED81D6882E89E65B009E2798 /* Calendar */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D68B2E89E682009E2798 /* Views */,
+				ED81D6892E89E66A009E2798 /* Apodemotokensphere.swift */,
+			);
+			path = Calendar;
+			sourceTree = "<group>";
+		};
+		ED81D68B2E89E682009E2798 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBCE2E9D027500C3898C /* Subviews */,
+				ED81D68C2E89E685009E2798 /* Cyberservtronness.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED834C6F2E8F4B6100FFABF6 /* MediaCheck */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBEF2E9DCC0900C3898C /* Models */,
+				ED834C722E8F4B7700FFABF6 /* Views */,
+				ED834C702E8F4B6900FFABF6 /* Opmicrohubtomy.swift */,
+			);
+			path = MediaCheck;
+			sourceTree = "<group>";
+		};
+		ED834C722E8F4B7700FFABF6 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED834C752E8F4D8D00FFABF6 /* Subviews */,
+				ED834C732E8F4B7A00FFABF6 /* Panappioous.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED834C752E8F4D8D00FFABF6 /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBF22E9DCFC200C3898C /* Sustheoiouschain.swift */,
+				EDBDCBED2E9DCBBC00C3898C /* Macroliberscopeox.swift */,
+				ED834C762E8F4D9100FFABF6 /* Milliagriifyfit.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		ED839C482E7AE888007DB379 = {
+			isa = PBXGroup;
+			children = (
+				ED839C722E7AE88F007DB379 /* Dralith */,
+				ED839C522E7AE888007DB379 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		ED839C522E7AE888007DB379 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				ED839C512E7AE888007DB379 /* Dralith.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		ED839C722E7AE88F007DB379 /* Dralith */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995C12ED49BAE009A5C5B /* newModules */,
+				EDD995BC2ED49B40009A5C5B /* Routers */,
+				ED5C07C32EC1D38E00CB2A39 /* GoogleService-Info.plist */,
+				EDC3248A2EA1793300CB3F27 /* Services */,
+				ED839C7B2E7AF768007DB379 /* Application */,
+				ED4B49E02E7AFCB50046337F /* Managers */,
+				ED839C7D2E7AF778007DB379 /* Sources */,
+				ED839C7A2E7AF751007DB379 /* Modules */,
+				ED839C7C2E7AF771007DB379 /* Resources */,
+				ED839C6B2E7AE88F007DB379 /* Info.plist */,
+			);
+			path = Dralith;
+			sourceTree = "<group>";
+		};
+		ED839C7A2E7AF751007DB379 /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF3E2E9F0B7B00C3898C /* Videos */,
+				ED834C6F2E8F4B6100FFABF6 /* MediaCheck */,
+				ED4FF79B2E8E08F000B19B6D /* Guide */,
+				ED4FF7902E8CBD4300B19B6D /* Photos */,
+				ED81D6882E89E65B009E2798 /* Calendar */,
+				ED81D6502E888167009E2798 /* Contacts */,
+				ED81D6402E885A4C009E2798 /* MainLoader */,
+				ED64A07D2E85FD6300346F7C /* Home */,
+				ED3D405C2E836A5000FFFFFB /* SpecialOffer */,
+				ED3D40412E83594D00FFFFFB /* Settings */,
+				ED4B49F62E7B7A5D0046337F /* Paywall */,
+				ED839C7F2E7AF78B007DB379 /* Splash */,
+				ED839C7E2E7AF780007DB379 /* Onboadring */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		ED839C7B2E7AF768007DB379 /* Application */ = {
+			isa = PBXGroup;
+			children = (
+				ED839C692E7AE88F007DB379 /* Heterospamishus.swift */,
+				ED5C09302EC1D79200CB2A39 /* Ofastrolinesome.swift */,
+			);
+			path = Application;
+			sourceTree = "<group>";
+		};
+		ED839C7C2E7AF771007DB379 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6852E89D697009E2798 /* Anim */,
+				ED839C6D2E7AE88F007DB379 /* LaunchScreen.storyboard */,
+				ED839C6A2E7AE88F007DB379 /* Assets.xcassets */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		ED839C7D2E7AF778007DB379 /* Sources */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDD1762EA05B5000C3898C /* Helpers */,
+				ED81D64C2E886C9E009E2798 /* Controllers */,
+				ED4B49EF2E7B058B0046337F /* Extensions */,
+				ED4B49EA2E7B027E0046337F /* Typealiases */,
+				ED4B49E72E7AFF6F0046337F /* UIComponents */,
+				ED4B49E42E7AFDAC0046337F /* Constants */,
+				EDD995E12ED4A0B7009A5C5B /* Outmachappware.swift */,
+			);
+			path = Sources;
+			sourceTree = "<group>";
+		};
+		ED839C7E2E7AF780007DB379 /* Onboadring */ = {
+			isa = PBXGroup;
+			children = (
+				ED4B49DD2E7AFC590046337F /* PageVC */,
+				ED839C812E7AF964007DB379 /* Models */,
+				ED839C802E7AF925007DB379 /* Views */,
+				ED839C712E7AE88F007DB379 /* Inagrifitcast.swift */,
+			);
+			path = Onboadring;
+			sourceTree = "<group>";
+		};
+		ED839C7F2E7AF78B007DB379 /* Splash */ = {
+			isa = PBXGroup;
+			children = (
+				ED81D6432E885AC4009E2798 /* Views */,
+				ED81D6412E885AB4009E2798 /* Metavoltendao.swift */,
+			);
+			path = Splash;
+			sourceTree = "<group>";
+		};
+		ED839C802E7AF925007DB379 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				ED4B49DB2E7AFC550046337F /* Synbytematecide.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		ED839C812E7AF964007DB379 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				ED839C842E7AF971007DB379 /* Exotagianess.swift */,
+				ED839C822E7AF969007DB379 /* Congeosomeation.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EDBDCBCE2E9D027500C3898C /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED15C4202EA6D2F900B81F8E /* ChooseDate */,
+				EDBDCBCF2E9D038E00C3898C /* Megasociityin.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		EDBDCBD12E9D354000C3898C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				ED51F4B32EB155CA00D1EA4F /* Duplicate */,
+				EDBDCF322E9EE62900C3898C /* Similar */,
+				EDBDCE102E9DDD0300C3898C /* Screenshots */,
+				EDBDCE0F2E9DDCFA00C3898C /* Swipe */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		EDBDCBD42E9D35BB00C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBDD2E9D5EF700C3898C /* Subviews */,
+				EDBDCBD52E9D35C000C3898C /* Comtrendizesome.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDCBDD2E9D5EF700C3898C /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBE02E9D641300C3898C /* Angloclouddeckeous.swift */,
+				EDBDCBDE2E9D614D00C3898C /* Maxichaingendrive.swift */,
+				EDBDCBD72E9D5A1D00C3898C /* Absflowtronure.swift */,
+				EDBDCBD92E9D5E3000C3898C /* Quantdevityed.swift */,
+				EDBDCBDB2E9D5E3400C3898C /* Precardiiousium.swift */,
+				ED51F37C2EB0576400D1EA4F /* Isodomicscan.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		EDBDCBE72E9D850A00C3898C /* NoSwipeItems */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBE92E9D856D00C3898C /* Comnucleoflowance.swift */,
+				EDBDCBE82E9D854800C3898C /* Views */,
+			);
+			path = NoSwipeItems;
+			sourceTree = "<group>";
+		};
+		EDBDCBE82E9D854800C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBE42E9D848000C3898C /* Counterauddropmark.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDCBEF2E9DCC0900C3898C /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCBF02E9DCC0D00C3898C /* Overmachdoitis.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		EDBDCE0F2E9DDCFA00C3898C /* Swipe */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF292E9EB56000C3898C /* Trash */,
+				EDBDCBD42E9D35BB00C3898C /* Views */,
+				EDBDCBD22E9D354400C3898C /* Downspirfulmark.swift */,
+			);
+			path = Swipe;
+			sourceTree = "<group>";
+		};
+		EDBDCE102E9DDD0300C3898C /* Screenshots */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCE142E9DDD1C00C3898C /* Cyberspamicance.swift */,
+				EDBDCE112E9DDD0D00C3898C /* Views */,
+			);
+			path = Screenshots;
+			sourceTree = "<group>";
+		};
+		EDBDCE112E9DDD0D00C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCE122E9DDD1000C3898C /* Apotelecorecast.swift */,
+				EDBDCE162E9DDE1A00C3898C /* Subviews */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDCE162E9DDE1A00C3898C /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCE172E9DDE2500C3898C /* Perilinkhubphile.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		EDBDCF292E9EB56000C3898C /* Trash */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF2C2E9EB57300C3898C /* Views */,
+				EDBDCF2A2E9EB56300C3898C /* Translucativeset.swift */,
+			);
+			path = Trash;
+			sourceTree = "<group>";
+		};
+		EDBDCF2C2E9EB57300C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF2F2E9EC49000C3898C /* Subviews */,
+				EDBDCF2D2E9EB57700C3898C /* Ectolumonvr.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDCF2F2E9EC49000C3898C /* Subviews */ = {
+			isa = PBXGroup;
+			children = (
+				ED55FA1F2EEB1DB200144195 /* automobcideium.swift */,
+			);
+			path = Subviews;
+			sourceTree = "<group>";
+		};
+		EDBDCF322E9EE62900C3898C /* Similar */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF362E9EE64700C3898C /* Views */,
+				EDBDCF342E9EE63400C3898C /* Forewavefundian.swift */,
+			);
+			path = Similar;
+			sourceTree = "<group>";
+		};
+		EDBDCF362E9EE64700C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF382E9EE65000C3898C /* ExoAIlogyzilla.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDCF3E2E9F0B7B00C3898C /* Videos */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF432E9F0BA600C3898C /* Views */,
+				EDBDCF412E9F0B8100C3898C /* Controllers */,
+				EDBDCF3F2E9F0B7E00C3898C /* Suprapolyianin.swift */,
+			);
+			path = Videos;
+			sourceTree = "<group>";
+		};
+		EDBDCF412E9F0B8100C3898C /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				EDE309D42EBB0D4E00A09703 /* Similar */,
+				EDBDCF512E9F1EE100C3898C /* ScreenRecordings */,
+				EDBDCF482E9F0FC900C3898C /* Largest */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		EDBDCF432E9F0BA600C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF442E9F0BAC00C3898C /* Sufvoczillatoken.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDCF482E9F0FC900C3898C /* Largest */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF4C2E9F107800C3898C /* Views */,
+				EDBDCF492E9F106200C3898C /* Neocodedaomark.swift */,
+			);
+			path = Largest;
+			sourceTree = "<group>";
+		};
+		EDBDCF4C2E9F107800C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF4D2E9F107B00C3898C /* Infraonymifyed.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDCF512E9F1EE100C3898C /* ScreenRecordings */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF532E9F1EF000C3898C /* Megadotytron.swift */,
+				EDBDCF522E9F1EE800C3898C /* Views */,
+			);
+			path = ScreenRecordings;
+			sourceTree = "<group>";
+		};
+		EDBDCF522E9F1EE800C3898C /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDCF552E9F1F0300C3898C /* Archlinguishition.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		EDBDD1762EA05B5000C3898C /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				EDBDD1792EA05D5900C3898C /* Xenomicrodoian.swift */,
+				EDBDD1772EA05B5D00C3898C /* Xliberlyical.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		EDC3248A2EA1793300CB3F27 /* Services */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995D62ED49EE4009A5C5B /* RemoteConfig */,
+				EDD995CA2ED49D6B009A5C5B /* Zip */,
+				EDD995BB2ED49A00009A5C5B /* Adapty */,
+				EDD994B82ED487D5009A5C5B /* Attribution */,
+				ED51F37A2EB0506800D1EA4F /* Supluccraty.swift */,
+				EDC3248B2EA1793800CB3F27 /* Microvidalcast.swift */,
+			);
+			path = Services;
+			sourceTree = "<group>";
+		};
+		EDD994B82ED487D5009A5C5B /* Attribution */ = {
+			isa = PBXGroup;
+			children = (
+				EDD994BF2ED488D7009A5C5B /* Xenocosmletzone.swift */,
+				EDD994BD2ED488A6009A5C5B /* Metauserkinware.swift */,
+				EDD994BB2ED4880A009A5C5B /* Benegraphousgo.swift */,
+				EDD994B92ED487E6009A5C5B /* Microfluismess.swift */,
+			);
+			path = Attribution;
+			sourceTree = "<group>";
+		};
+		EDD995BB2ED49A00009A5C5B /* Adapty */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995B92ED499FA009A5C5B /* Imdigitistness.swift */,
+			);
+			path = Adapty;
+			sourceTree = "<group>";
+		};
+		EDD995BC2ED49B40009A5C5B /* Routers */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995DC2ED49F9F009A5C5B /* Millitechifyence.swift */,
+				EDD995D42ED49E73009A5C5B /* Homophonnessus.swift */,
+				EDD995BF2ED49B55009A5C5B /* Retromagnloopox.swift */,
+				EDD995BD2ED49B47009A5C5B /* Counterhubwarechain.swift */,
+			);
+			path = Routers;
+			sourceTree = "<group>";
+		};
+		EDD995C12ED49BAE009A5C5B /* newModules */ = {
+			isa = PBXGroup;
+			children = (
+				EDE7C7BC2EEA0D390047B048 /* Eportacysome.swift */,
+				EDD9994E2ED5D33F009A5C5B /* Neocryptcorephyte.swift */,
+				EDD995D92ED49F82009A5C5B /* Paywall */,
+				EDD995CD2ED49DFE009A5C5B /* Main */,
+				EDD995C92ED49D59009A5C5B /* Splash */,
+				EDD999502ED5D378009A5C5B /* Unhubcastlogy.swift */,
+				ED6609DA2EE214E2006173B2 /* Onb */,
+			);
+			path = newModules;
+			sourceTree = "<group>";
+		};
+		EDD995C92ED49D59009A5C5B /* Splash */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995D22ED49E67009A5C5B /* Conucleoizetomy.swift */,
+				EDD995C22ED49BB6009A5C5B /* Metadigitancegram.swift */,
+			);
+			path = Splash;
+			sourceTree = "<group>";
+		};
+		EDD995CA2ED49D6B009A5C5B /* Zip */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995CB2ED49D6F009A5C5B /* Undevzonehood.swift */,
+			);
+			path = Zip;
+			sourceTree = "<group>";
+		};
+		EDD995CD2ED49DFE009A5C5B /* Main */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995D02ED49E1E009A5C5B /* Quadriannzonephor.swift */,
+				EDD995CE2ED49E03009A5C5B /* Upstreamifybase.swift */,
+			);
+			path = Main;
+			sourceTree = "<group>";
+		};
+		EDD995D62ED49EE4009A5C5B /* RemoteConfig */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995D72ED49EEF009A5C5B /* Paraappfitos.swift */,
+				ED5C09322EC1D7B100CB2A39 /* Ectorobotzaess.swift */,
+			);
+			path = RemoteConfig;
+			sourceTree = "<group>";
+		};
+		EDD995D92ED49F82009A5C5B /* Paywall */ = {
+			isa = PBXGroup;
+			children = (
+				EDD995DE2ED49FC3009A5C5B /* Maldevworklogy.swift */,
+				EDD995DA2ED49F89009A5C5B /* Synfileableian.swift */,
+			);
+			path = Paywall;
+			sourceTree = "<group>";
+		};
+		EDE309D42EBB0D4E00A09703 /* Similar */ = {
+			isa = PBXGroup;
+			children = (
+				EDE309D72EBB0D6200A09703 /* Views */,
+				EDE309D52EBB0D5400A09703 /* Amultienlogy.swift */,
+			);
+			path = Similar;
+			sourceTree = "<group>";
+		};
+		EDE309D72EBB0D6200A09703 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				EDE309D82EBB0D6500A09703 /* Rememnomyor.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		ED839C502E7AE888007DB379 /* Dralith */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = ED839C642E7AE889007DB379 /* Build configuration list for PBXNativeTarget "Dralith" */;
+			buildPhases = (
+				ED839C4D2E7AE888007DB379 /* Sources */,
+				ED839C4E2E7AE888007DB379 /* Frameworks */,
+				ED839C4F2E7AE888007DB379 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = Dralith;
+			packageProductDependencies = (
+				ED839C872E7AF996007DB379 /* SnapKit */,
+				ED3D40582E8367BC00FFFFFB /* Lottie */,
+				EDBDCF252E9EAD9A00C3898C /* Shuffle */,
+				EDBDCF5A2E9F335000C3898C /* Alamofire */,
+				EDBDCF612E9F34EA00C3898C /* Adapty */,
+				ED15C3DD2EA5B49000B81F8E /* EFAutoScrollLabel */,
+				ED5C08262EC1D46700CB2A39 /* FirebaseCrashlytics */,
+				ED5C08282EC1D46700CB2A39 /* FirebaseRemoteConfig */,
+				ED5C09372EC1D91C00CB2A39 /* AmplitudeSwift */,
+				ED7DF7282ECDF99000C054A7 /* AppsFlyerLib */,
+				EDD995C52ED49C6C009A5C5B /* Zip */,
+			);
+			productName = Dralith;
+			productReference = ED839C512E7AE888007DB379 /* Dralith.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		ED839C492E7AE888007DB379 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 2600;
+				LastUpgradeCheck = 2600;
+				TargetAttributes = {
+					ED839C502E7AE888007DB379 = {
+						CreatedOnToolsVersion = 26.0;
+					};
+				};
+			};
+			buildConfigurationList = ED839C4C2E7AE888007DB379 /* Build configuration list for PBXProject "Dralith" */;
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = ED839C482E7AE888007DB379;
+			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+				ED839C862E7AF996007DB379 /* XCRemoteSwiftPackageReference "SnapKit" */,
+				ED3D40572E8367BC00FFFFFB /* XCRemoteSwiftPackageReference "lottie-spm" */,
+				EDBDCF242E9EAD9A00C3898C /* XCRemoteSwiftPackageReference "Shuffle" */,
+				EDBDCF592E9F335000C3898C /* XCRemoteSwiftPackageReference "Alamofire" */,
+				EDBDCF602E9F34EA00C3898C /* XCRemoteSwiftPackageReference "AdaptySDK-iOS" */,
+				ED15C3DC2EA5B49000B81F8E /* XCRemoteSwiftPackageReference "EFAutoScrollLabel" */,
+				ED5C08252EC1D46700CB2A39 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				ED5C09362EC1D91C00CB2A39 /* XCRemoteSwiftPackageReference "Amplitude-Swift" */,
+				ED7DF7272ECDF99000C054A7 /* XCRemoteSwiftPackageReference "AppsFlyerFramework" */,
+				EDD995C42ED49C6C009A5C5B /* XCRemoteSwiftPackageReference "Zip" */,
+			);
+			preferredProjectObjectVersion = 77;
+			productRefGroup = ED839C522E7AE888007DB379 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				ED839C502E7AE888007DB379 /* Dralith */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		ED839C4F2E7AE888007DB379 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED839C762E7AE88F007DB379 /* Assets.xcassets in Resources */,
+				ED839C782E7AE88F007DB379 /* LaunchScreen.storyboard in Resources */,
+				ED81D6872E89D69B009E2798 /* delete.json in Resources */,
+				ED3D405B2E83686800FFFFFB /* JumpLoading.json in Resources */,
+				ED5C07C42EC1D38E00CB2A39 /* GoogleService-Info.plist in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		ED839C4D2E7AE888007DB379 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				ED3D40462E83596300FFFFFB /* Paleobotwarego.swift in Sources */,
+				ED64A0942E860ACF00346F7C /* Macroradgenesisar.swift in Sources */,
+				ED81D68A2E89E66E009E2798 /* Apodemotokensphere.swift in Sources */,
+				ED81D6672E88A632009E2798 /* Homobotifyscope.swift in Sources */,
+				ED4B49FE2E7B7AC20046337F /* Perimanencyos.swift in Sources */,
+				ED4B4A002E7B7B080046337F /* Circumphillingment.swift in Sources */,
+				EDD995C02ED49B55009A5C5B /* Retromagnloopox.swift in Sources */,
+				EDBDCBF12E9DCC0E00C3898C /* Overmachdoitis.swift in Sources */,
+				ED4B49DC2E7AFC560046337F /* Synbytematecide.swift in Sources */,
+				EDD995CF2ED49E03009A5C5B /* Upstreamifybase.swift in Sources */,
+				EDBDCBD82E9D5A2400C3898C /* Absflowtronure.swift in Sources */,
+				ED3D40502E83612900FFFFFB /* Transbyteverseos.swift in Sources */,
+				ED15C4282EA6D33600B81F8E /* Virtbyteflowtheca.swift in Sources */,
+				ED81D6522E88816D009E2798 /* Synolinguatedom.swift in Sources */,
+				EDBDCF642E9F36E700C3898C /* Outnattokenvr.swift in Sources */,
+				ED834C712E8F4B6900FFABF6 /* Opmicrohubtomy.swift in Sources */,
+				EDBDCBDC2E9D5E3D00C3898C /* Precardiiousium.swift in Sources */,
+				EDD995C32ED49BB6009A5C5B /* Metadigitancegram.swift in Sources */,
+				ED4FF7982E8CBE7D00B19B6D /* Metametrverseverse.swift in Sources */,
+				EDE7C7BD2EEA0D3C0047B048 /* Eportacysome.swift in Sources */,
+				ED64A0812E85FE0D00346F7C /* Biscardiantup.swift in Sources */,
+				ED81D6492E8861BA009E2798 /* Compageicalous.swift in Sources */,
+				ED4B49F32E7B06420046337F /* Egramscopeition.swift in Sources */,
+				ED4B49F12E7B05900046337F /* Counterarchityphyte.swift in Sources */,
+				EDBDCF502E9F13D300C3898C /* Paleolaseryial.swift in Sources */,
+				EDBDCBE52E9D848000C3898C /* Counterauddropmark.swift in Sources */,
+				EDD995C82ED49D02009A5C5B /* Epibiozoest.swift in Sources */,
+				ED81D6422E885AB4009E2798 /* Metavoltendao.swift in Sources */,
+				EDBDD1782EA05B5D00C3898C /* Xliberlyical.swift in Sources */,
+				ED81D6762E89A14F009E2798 /* Overmetagraphyar.swift in Sources */,
+				EDBDCBD32E9D354900C3898C /* Downspirfulmark.swift in Sources */,
+				ED4FF7A02E8E0B2400B19B6D /* Prelogfundus.swift in Sources */,
+				EDBDCF2B2E9EB56900C3898C /* Translucativeset.swift in Sources */,
+				EDD994C02ED488D8009A5C5B /* Xenocosmletzone.swift in Sources */,
+				ED4B49E62E7AFDB20046337F /* Iquantioence.swift in Sources */,
+				ED47DA7E2E95AB3200DBA402 /* Unvirtcoreer.swift in Sources */,
+				ED3D40562E83671900FFFFFB /* Ectocloudetteon.swift in Sources */,
+				EDD995D82ED49EF9009A5C5B /* Paraappfitos.swift in Sources */,
+				EDBDCF542E9F1EF000C3898C /* Megadotytron.swift in Sources */,
+				ED81D64E2E886CA7009E2798 /* Infohydrishacy.swift in Sources */,
+				ED839C732E7AE88F007DB379 /* Heterospamishus.swift in Sources */,
+				EDBDCBD62E9D35C000C3898C /* Comtrendizesome.swift in Sources */,
+				EDD995E22ED4A0B7009A5C5B /* Outmachappware.swift in Sources */,
+				ED3D40352E833F4300FFFFFB /* Hemihackeoussaur.swift in Sources */,
+				EDA49CFB2E90A79900523C36 /* Anglotechlogyline.swift in Sources */,
+				ED15C4262EA6D32000B81F8E /* Gynmediaancyphobia.swift in Sources */,
+				EDE309D32EBAE0BA00A09703 /* Telelinguifydeck.swift in Sources */,
+				EDD995D52ED49E74009A5C5B /* Homophonnessus.swift in Sources */,
+				ED3D404E2E835FDE00FFFFFB /* Bissectencyar.swift in Sources */,
+				ED4B49DF2E7AFC600046337F /* Conchainancylab.swift in Sources */,
+				EDBDCF4A2E9F106200C3898C /* Neocodedaomark.swift in Sources */,
+				ED51F37B2EB0506C00D1EA4F /* Supluccraty.swift in Sources */,
+				ED5C09312EC1D79800CB2A39 /* Ofastrolinesome.swift in Sources */,
+				EDBDCE132E9DDD1000C3898C /* Apotelecorecast.swift in Sources */,
+				ED51F4B82EB155E700D1EA4F /* Downlaborifyial.swift in Sources */,
+				EDD9994F2ED5D345009A5C5B /* Neocryptcorephyte.swift in Sources */,
+				ED81D6622E8888F6009E2798 /* Ialtalscope.swift in Sources */,
+				ED4FF79D2E8E0B0B00B19B6D /* Duomedilogyian.swift in Sources */,
+				ED81D6472E885C1A009E2798 /* Duodermboxin.swift in Sources */,
+				ED81D6452E885ACB009E2798 /* Idionetzymeza.swift in Sources */,
+				EDBDCF2E2E9EB57700C3898C /* Ectolumonvr.swift in Sources */,
+				EDBDCF3B2E9EEB8300C3898C /* Maxilogishpad.swift in Sources */,
+				ED3D403E2E83438000FFFFFB /* Intrafaclinenomy.swift in Sources */,
+				ED47DC962E95F93C00DBA402 /* Outsectantum.swift in Sources */,
+				ED5C065D2EC1BCB900CB2A39 /* Nontagmorphor.swift in Sources */,
+				EDBDCBF32E9DCFC600C3898C /* Sustheoiouschain.swift in Sources */,
+				ED3D403C2E8342BC00FFFFFB /* Netportcideing.swift in Sources */,
+				ED3D403A2E8342B800FFFFFB /* Sugphysscopetion.swift in Sources */,
+				EDD995D12ED49E1E009A5C5B /* Quadriannzonephor.swift in Sources */,
+				EDD995D32ED49E67009A5C5B /* Conucleoizetomy.swift in Sources */,
+				ED64A0842E85FEBD00346F7C /* Microcognkinout.swift in Sources */,
+				EDD995BE2ED49B47009A5C5B /* Counterhubwarechain.swift in Sources */,
+				ED81D6782E89A3EA009E2798 /* Comannentdrop.swift in Sources */,
+				ED47DC942E95EFEC00DBA402 /* Intrawaveixy.swift in Sources */,
+				ED47DB862E95B22700DBA402 /* Archaeophonnomyition.swift in Sources */,
+				ED81D67A2E89AD32009E2798 /* Paraphotoitydrop.swift in Sources */,
+				ED0A25D72ECD263F00A1C0FE /* Antianthroleton.swift in Sources */,
+				ED834C742E8F4B7B00FFABF6 /* Panappioous.swift in Sources */,
+				EDBDCE182E9DDE2500C3898C /* Perilinkhubphile.swift in Sources */,
+				EDBDCF452E9F0BAC00C3898C /* Sufvoczillatoken.swift in Sources */,
+				EDBDCBDA2E9D5E3200C3898C /* Quantdevityed.swift in Sources */,
+				EDBDCF352E9EE63500C3898C /* Forewavefundian.swift in Sources */,
+				ED834C772E8F4D9100FFABF6 /* Milliagriifyfit.swift in Sources */,
+				ED81D6842E89D45D009E2798 /* Quasinomixgraphy.swift in Sources */,
+				ED81D6812E89D44B009E2798 /* Underservappsphere.swift in Sources */,
+				EDD995CC2ED49D6F009A5C5B /* Undevzonehood.swift in Sources */,
+				ED51F37D2EB0576400D1EA4F /* Isodomicscan.swift in Sources */,
+				ED51F4B52EB155D000D1EA4F /* Itagbaseline.swift in Sources */,
+				ED839C852E7AF971007DB379 /* Exotagianess.swift in Sources */,
+				ED4FF7932E8CBD4C00B19B6D /* Bismechzillasphere.swift in Sources */,
+				EDBDCF582E9F331A00C3898C /* Monoparticlingar.swift in Sources */,
+				ED47DB8C2E95BC5D00DBA402 /* Confacessology.swift in Sources */,
+				ED47DB892E95B23900DBA402 /* Nonsynthgraphygen.swift in Sources */,
+				EDBDCBD02E9D039200C3898C /* Megasociityin.swift in Sources */,
+				ED47DA722E94B76D00DBA402 /* Promanlineix.swift in Sources */,
+				ED3D40432E83595100FFFFFB /* Polychainversety.swift in Sources */,
+				EDD995BA2ED499FA009A5C5B /* Imdigitistness.swift in Sources */,
+				ED64A08A2E86034300346F7C /* Apoplasmiblebot.swift in Sources */,
+				EDE309D92EBB0D6500A09703 /* Rememnomyor.swift in Sources */,
+				ED3D40612E836A6800FFFFFB /* Endobyteistcide.swift in Sources */,
+				ED3D405E2E836A5500FFFFFB /* Netsitewaresy.swift in Sources */,
+				EDBDCBE12E9D641B00C3898C /* Angloclouddeckeous.swift in Sources */,
+				EDBDCBEA2E9D856E00C3898C /* Comnucleoflowance.swift in Sources */,
+				ED81D67E2E89CB63009E2798 /* Macroactverseline.swift in Sources */,
+				EDD995DB2ED49F89009A5C5B /* Synfileableian.swift in Sources */,
+				EDD994BC2ED4880A009A5C5B /* Benegraphousgo.swift in Sources */,
+				EDD995DD2ED49F9F009A5C5B /* Millitechifyence.swift in Sources */,
+				ED4FF79A2E8CBED000B19B6D /* Synmediacracycrat.swift in Sources */,
+				ED3D40372E833F6800FFFFFB /* Emphysateox.swift in Sources */,
+				ED6609DE2EE2187F006173B2 /* Upsectisehub.swift in Sources */,
+				ED15C42A2EA6D37100B81F8E /* Upvoccorevr.swift in Sources */,
+				EDBDCF562E9F1F0300C3898C /* Archlinguishition.swift in Sources */,
+				ED47DA7B2E95AAE600DBA402 /* Ecourbkinpad.swift in Sources */,
+				EDBDCF392E9EE65000C3898C /* ExoAIlogyzilla.swift in Sources */,
+				ED3D404B2E835F4900FFFFFB /* Metaactdomcracy.swift in Sources */,
+				ED3D40662E836DF000FFFFFB /* Adbitentmorph.swift in Sources */,
+				EDBDCF6B2E9F444400C3898C /* Upspirletar.swift in Sources */,
+				ED3D40482E835A5C00FFFFFB /* Surmechappsy.swift in Sources */,
+				ED4B49E92E7AFF750046337F /* Paralinkfitx.swift in Sources */,
+				ED64A07F2E85FD6900346F7C /* Neuroarchixware.swift in Sources */,
+				ED15C3DB2EA5B06A00B81F8E /* Automemmatedeck.swift in Sources */,
+				ED3D40322E833D9600FFFFFB /* Autotelehublite.swift in Sources */,
+				ED839C832E7AF969007DB379 /* Congeosomeation.swift in Sources */,
+				EDBDCF402E9F0B7E00C3898C /* Suprapolyianin.swift in Sources */,
+				ED64A09B2E86173B00346F7C /* Malblocklingloop.swift in Sources */,
+				ED64A0972E860F0C00346F7C /* Idiooptkinin.swift in Sources */,
+				EDBDCE152E9DDD1E00C3898C /* Cyberspamicance.swift in Sources */,
+				ED4B49F82E7B7A610046337F /* Homodotitisdeck.swift in Sources */,
+				ED783B5B2EA0821600F721DC /* Bemanianox.swift in Sources */,
+				EDBDD17A2EA05D5A00C3898C /* Xenomicrodoian.swift in Sources */,
+				ED55FA202EEB1DB200144195 /* automobcideium.swift in Sources */,
+				EDC3248C2EA1793800CB3F27 /* Microvidalcast.swift in Sources */,
+				ED5C09332EC1D7B400CB2A39 /* Ectorobotzaess.swift in Sources */,
+				EDBDCF5D2E9F33D400C3898C /* Comnodescopeify.swift in Sources */,
+				EDD999512ED5D378009A5C5B /* Unhubcastlogy.swift in Sources */,
+				ED81D68D2E89E685009E2798 /* Cyberservtronness.swift in Sources */,
+				ED81D6722E88BAC3009E2798 /* Millicyberchainmark.swift in Sources */,
+				ED81D66A2E88A648009E2798 /* Acircuitishure.swift in Sources */,
+				ED81D65F2E8888E2009E2798 /* Supcosmcidezyme.swift in Sources */,
+				ED81D64B2E8861F5009E2798 /* Abselecbasement.swift in Sources */,
+				ED6609DC2EE214E8006173B2 /* Retrooptorcracy.swift in Sources */,
+				ED3D40642E836C8F00FFFFFB /* Macroflowiseity.swift in Sources */,
+				ED15C4222EA6D31000B81F8E /* Analinkencegram.swift in Sources */,
+				ED81D68F2E89EA01009E2798 /* Demanneter.swift in Sources */,
+				ED4FF7952E8CBD5900B19B6D /* Heterocircuitpayty.swift in Sources */,
+				EDE309D62EBB0D5400A09703 /* Amultienlogy.swift in Sources */,
+				ED3D40532E8366F700FFFFFB /* Exmobmarkverse.swift in Sources */,
+				ED81D6552E88819E009E2798 /* Multianthrofundza.swift in Sources */,
+				ED4B49EC2E7B02910046337F /* Quasicryptatemark.swift in Sources */,
+				ED4B49E22E7AFCBA0046337F /* Hypertheoessos.swift in Sources */,
+				EDBDCF3D2E9EF46C00C3898C /* Retroradtronure.swift in Sources */,
+				EDD995DF2ED49FC3009A5C5B /* Maldevworklogy.swift in Sources */,
+				EDD994BA2ED487E6009A5C5B /* Microfluismess.swift in Sources */,
+				ED64A0872E86029900346F7C /* Sufaeroiumum.swift in Sources */,
+				ED15C4242EA6D31A00B81F8E /* Extratagistchain.swift in Sources */,
+				ED81D65C2E8882A6009E2798 /* Orthositeletful.swift in Sources */,
+				EDD994BE2ED488A6009A5C5B /* Metauserkinware.swift in Sources */,
+				ED81D66C2E88A9A8009E2798 /* Quantfusionnomyation.swift in Sources */,
+				EDBDCF4E2E9F108700C3898C /* Infraonymifyed.swift in Sources */,
+				EDBDCBEE2E9DCBC200C3898C /* Macroliberscopeox.swift in Sources */,
+				ED81D6702E88AF9A009E2798 /* Macrotrendsterzo.swift in Sources */,
+				ED839C752E7AE88F007DB379 /* Inagrifitcast.swift in Sources */,
+				EDBDCBDF2E9D616A00C3898C /* Maxichaingendrive.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		ED839C6D2E7AE88F007DB379 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				ED839C6C2E7AE88F007DB379 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		ED839C652E7AE889007DB379 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Dralith/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Clenyx Cleaner App";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "Need access to your calendar to show events.";
+				INFOPLIST_KEY_NSContactsUsageDescription = "We need access to your contacts to display them in the app.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We use access to your photos so you can choose an image for your profile.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clenyx.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Debug;
+		};
+		ED839C662E7AE889007DB379 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = "";
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = Dralith/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Clenyx Cleaner App";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
+				INFOPLIST_KEY_NSCalendarsUsageDescription = "Need access to your calendar to show events.";
+				INFOPLIST_KEY_NSContactsUsageDescription = "We need access to your contacts to display them in the app.";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "We use access to your photos so you can choose an image for your profile.";
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
+				INFOPLIST_KEY_UIUserInterfaceStyle = Light;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.clenyx.app;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				STRING_CATALOG_GENERATE_SYMBOLS = YES;
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
+				SWIFT_APPROACHABLE_CONCURRENCY = YES;
+				SWIFT_DEFAULT_ACTOR_ISOLATION = MainActor;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_UPCOMING_FEATURE_MEMBER_IMPORT_VISIBILITY = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = 1;
+			};
+			name = Release;
+		};
+		ED839C672E7AE889007DB379 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = NG8TF397V4;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "DEBUG $(inherited)";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		ED839C682E7AE889007DB379 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = NG8TF397V4;
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 26.0;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		ED839C4C2E7AE888007DB379 /* Build configuration list for PBXProject "Dralith" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED839C672E7AE889007DB379 /* Debug */,
+				ED839C682E7AE889007DB379 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		ED839C642E7AE889007DB379 /* Build configuration list for PBXNativeTarget "Dralith" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				ED839C652E7AE889007DB379 /* Debug */,
+				ED839C662E7AE889007DB379 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		ED15C3DC2EA5B49000B81F8E /* XCRemoteSwiftPackageReference "EFAutoScrollLabel" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/EFPrefix/EFAutoScrollLabel.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.1.3;
+			};
+		};
+		ED3D40572E8367BC00FFFFFB /* XCRemoteSwiftPackageReference "lottie-spm" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-spm.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 4.5.2;
+			};
+		};
+		ED5C08252EC1D46700CB2A39 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/firebase/firebase-ios-sdk";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 12.5.0;
+			};
+		};
+		ED5C09362EC1D91C00CB2A39 /* XCRemoteSwiftPackageReference "Amplitude-Swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/amplitude/Amplitude-Swift";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
+		ED7DF7272ECDF99000C054A7 /* XCRemoteSwiftPackageReference "AppsFlyerFramework" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/AppsFlyerSDK/AppsFlyerFramework";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 6.17.7;
+			};
+		};
+		ED839C862E7AF996007DB379 /* XCRemoteSwiftPackageReference "SnapKit" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SnapKit/SnapKit";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.7.1;
+			};
+		};
+		EDBDCF242E9EAD9A00C3898C /* XCRemoteSwiftPackageReference "Shuffle" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/mac-gallagher/Shuffle.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		EDBDCF592E9F335000C3898C /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.10.2;
+			};
+		};
+		EDBDCF602E9F34EA00C3898C /* XCRemoteSwiftPackageReference "AdaptySDK-iOS" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/adaptyteam/AdaptySDK-iOS";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.11.0;
+			};
+		};
+		EDD995C42ED49C6C009A5C5B /* XCRemoteSwiftPackageReference "Zip" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/marmelroy/Zip.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.1.2;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		ED15C3DD2EA5B49000B81F8E /* EFAutoScrollLabel */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ED15C3DC2EA5B49000B81F8E /* XCRemoteSwiftPackageReference "EFAutoScrollLabel" */;
+			productName = EFAutoScrollLabel;
+		};
+		ED3D40582E8367BC00FFFFFB /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ED3D40572E8367BC00FFFFFB /* XCRemoteSwiftPackageReference "lottie-spm" */;
+			productName = Lottie;
+		};
+		ED5C08262EC1D46700CB2A39 /* FirebaseCrashlytics */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ED5C08252EC1D46700CB2A39 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseCrashlytics;
+		};
+		ED5C08282EC1D46700CB2A39 /* FirebaseRemoteConfig */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ED5C08252EC1D46700CB2A39 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
+			productName = FirebaseRemoteConfig;
+		};
+		ED5C09372EC1D91C00CB2A39 /* AmplitudeSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ED5C09362EC1D91C00CB2A39 /* XCRemoteSwiftPackageReference "Amplitude-Swift" */;
+			productName = AmplitudeSwift;
+		};
+		ED7DF7282ECDF99000C054A7 /* AppsFlyerLib */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ED7DF7272ECDF99000C054A7 /* XCRemoteSwiftPackageReference "AppsFlyerFramework" */;
+			productName = AppsFlyerLib;
+		};
+		ED839C872E7AF996007DB379 /* SnapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = ED839C862E7AF996007DB379 /* XCRemoteSwiftPackageReference "SnapKit" */;
+			productName = SnapKit;
+		};
+		EDBDCF252E9EAD9A00C3898C /* Shuffle */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EDBDCF242E9EAD9A00C3898C /* XCRemoteSwiftPackageReference "Shuffle" */;
+			productName = Shuffle;
+		};
+		EDBDCF5A2E9F335000C3898C /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EDBDCF592E9F335000C3898C /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		EDBDCF612E9F34EA00C3898C /* Adapty */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EDBDCF602E9F34EA00C3898C /* XCRemoteSwiftPackageReference "AdaptySDK-iOS" */;
+			productName = Adapty;
+		};
+		EDD995C52ED49C6C009A5C5B /* Zip */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = EDD995C42ED49C6C009A5C5B /* XCRemoteSwiftPackageReference "Zip" */;
+			productName = Zip;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = ED839C492E7AE888007DB379 /* Project object */;
+}

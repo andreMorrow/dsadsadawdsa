@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tablerFill.svg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "scale" : "2x",
+      "idiom" : "universal",
+      "filename" : "tablerFill 1.svg"
+    },
+    {
+      "scale" : "3x",
+      "filename" : "tablerFill 2.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  }
+}
