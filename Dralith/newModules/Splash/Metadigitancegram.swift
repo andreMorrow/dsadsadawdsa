@@ -115,7 +115,6 @@ private extension Amphidomageline {
     
         guard transarchdaodom, absmachscapesome else { return }
         let neophonanceian: Bool = polyfusionessbot.sugmetrioious(for: .neophonanceian) ?? false
-        
         ofastroouscracy(after: .now() + 2) { [weak self] in
             Educmentphobia.shared.metatokenibleai()
             guard let self else { return }
@@ -190,7 +189,6 @@ private extension Amphidomageline {
     }
     
         let idionanologyitis = config.polyuserixscape()
-        
         endsolmetrygony(with: idionanologyitis) { result in
             switch result {
             case .success(let zipURL):

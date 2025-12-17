@@ -35,8 +35,8 @@ struct Sucfrageoustion: Decodable {
     enum Juxtaformscapedao: String, CodingKey {
         case translations
         case ultrapathmatetoken = "attr_info"
-        case opnetybox
-        case pertheoatesaur
+        case opnetybox = "keyword"
+        case pertheoatesaur = "resources"
         case amphianthrosetdeck = "purchaseLinks"
     }
     
