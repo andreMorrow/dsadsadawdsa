@@ -66,7 +66,6 @@
 		ED51F4B82EB155E700D1EA4F /* Downlaborifyial.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED51F4B72EB155E700D1EA4F /* Downlaborifyial.swift */; };
 		ED55FA202EEB1DB200144195 /* automobcideium.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED55FA1F2EEB1DB200144195 /* automobcideium.swift */; };
 		ED5C065D2EC1BCB900CB2A39 /* Nontagmorphor.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5C065C2EC1BCB600CB2A39 /* Nontagmorphor.swift */; };
-		ED5C07C42EC1D38E00CB2A39 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = ED5C07C32EC1D38E00CB2A39 /* GoogleService-Info.plist */; };
 		ED5C08272EC1D46700CB2A39 /* FirebaseCrashlytics in Frameworks */ = {isa = PBXBuildFile; productRef = ED5C08262EC1D46700CB2A39 /* FirebaseCrashlytics */; };
 		ED5C08292EC1D46700CB2A39 /* FirebaseRemoteConfig in Frameworks */ = {isa = PBXBuildFile; productRef = ED5C08282EC1D46700CB2A39 /* FirebaseRemoteConfig */; };
 		ED5C09312EC1D79800CB2A39 /* Ofastrolinesome.swift in Sources */ = {isa = PBXBuildFile; fileRef = ED5C09302EC1D79200CB2A39 /* Ofastrolinesome.swift */; };
@@ -182,6 +181,7 @@
 		EDD995E22ED4A0B7009A5C5B /* Outmachappware.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD995E12ED4A0B7009A5C5B /* Outmachappware.swift */; };
 		EDD9994F2ED5D345009A5C5B /* Neocryptcorephyte.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD9994E2ED5D33F009A5C5B /* Neocryptcorephyte.swift */; };
 		EDD999512ED5D378009A5C5B /* Unhubcastlogy.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDD999502ED5D378009A5C5B /* Unhubcastlogy.swift */; };
+		EDDDD7682EF2C7B6002B2924 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = EDDDD7672EF2C7B6002B2924 /* GoogleService-Info.plist */; };
 		EDE309D32EBAE0BA00A09703 /* Telelinguifydeck.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE309D22EBAE0BA00A09703 /* Telelinguifydeck.swift */; };
 		EDE309D62EBB0D5400A09703 /* Amultienlogy.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE309D52EBB0D5400A09703 /* Amultienlogy.swift */; };
 		EDE309D92EBB0D6500A09703 /* Rememnomyor.swift in Sources */ = {isa = PBXBuildFile; fileRef = EDE309D82EBB0D6500A09703 /* Rememnomyor.swift */; };
@@ -246,7 +246,6 @@
 		ED51F4B72EB155E700D1EA4F /* Downlaborifyial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Downlaborifyial.swift; sourceTree = "<group>"; };
 		ED55FA1F2EEB1DB200144195 /* automobcideium.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = automobcideium.swift; sourceTree = "<group>"; };
 		ED5C065C2EC1BCB600CB2A39 /* Nontagmorphor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nontagmorphor.swift; sourceTree = "<group>"; };
-		ED5C07C32EC1D38E00CB2A39 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		ED5C09302EC1D79200CB2A39 /* Ofastrolinesome.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ofastrolinesome.swift; sourceTree = "<group>"; };
 		ED5C09322EC1D7B100CB2A39 /* Ectorobotzaess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ectorobotzaess.swift; sourceTree = "<group>"; };
 		ED64A07E2E85FD6900346F7C /* Neuroarchixware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neuroarchixware.swift; sourceTree = "<group>"; };
@@ -355,6 +354,7 @@
 		EDD995E12ED4A0B7009A5C5B /* Outmachappware.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Outmachappware.swift; sourceTree = "<group>"; };
 		EDD9994E2ED5D33F009A5C5B /* Neocryptcorephyte.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Neocryptcorephyte.swift; sourceTree = "<group>"; };
 		EDD999502ED5D378009A5C5B /* Unhubcastlogy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Unhubcastlogy.swift; sourceTree = "<group>"; };
+		EDDDD7672EF2C7B6002B2924 /* GoogleService-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		EDE309D22EBAE0BA00A09703 /* Telelinguifydeck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Telelinguifydeck.swift; sourceTree = "<group>"; };
 		EDE309D52EBB0D5400A09703 /* Amultienlogy.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Amultienlogy.swift; sourceTree = "<group>"; };
 		EDE309D82EBB0D6500A09703 /* Rememnomyor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Rememnomyor.swift; sourceTree = "<group>"; };
@@ -1018,7 +1018,6 @@
 			children = (
 				EDD995C12ED49BAE009A5C5B /* newModules */,
 				EDD995BC2ED49B40009A5C5B /* Routers */,
-				ED5C07C32EC1D38E00CB2A39 /* GoogleService-Info.plist */,
 				EDC3248A2EA1793300CB3F27 /* Services */,
 				ED839C7B2E7AF768007DB379 /* Application */,
 				ED4B49E02E7AFCB50046337F /* Managers */,
@@ -1026,6 +1025,7 @@
 				ED839C7A2E7AF751007DB379 /* Modules */,
 				ED839C7C2E7AF771007DB379 /* Resources */,
 				ED839C6B2E7AE88F007DB379 /* Info.plist */,
+				EDDDD7672EF2C7B6002B2924 /* GoogleService-Info.plist */,
 			);
 			path = Dralith;
 			sourceTree = "<group>";
@@ -1541,9 +1541,9 @@
 			files = (
 				ED839C762E7AE88F007DB379 /* Assets.xcassets in Resources */,
 				ED839C782E7AE88F007DB379 /* LaunchScreen.storyboard in Resources */,
+				EDDDD7682EF2C7B6002B2924 /* GoogleService-Info.plist in Resources */,
 				ED81D6872E89D69B009E2798 /* delete.json in Resources */,
 				ED3D405B2E83686800FFFFFB /* JumpLoading.json in Resources */,
-				ED5C07C42EC1D38E00CB2A39 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

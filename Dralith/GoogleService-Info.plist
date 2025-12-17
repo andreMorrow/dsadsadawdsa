@@ -3,17 +3,17 @@
 <plist version="1.0">
 <dict>
 	<key>API_KEY</key>
-	<string>AIzaSyCVaTbNuxTcKY0n0C4qeDfteRDiqKD7xkA</string>
+	<string>AIzaSyAS95QQILYYZnKzmCGixxW9UUGKKaPsh0o</string>
 	<key>GCM_SENDER_ID</key>
-	<string>238219067415</string>
+	<string>571700242390</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>andreichenko.dralith</string>
+	<string>com.clenyx.app</string>
 	<key>PROJECT_ID</key>
-	<string>dralith-1369c</string>
+	<string>puravo-cleaner-app-v6</string>
 	<key>STORAGE_BUCKET</key>
-	<string>dralith-1369c.firebasestorage.app</string>
+	<string>puravo-cleaner-app-v6.firebasestorage.app</string>
 	<key>IS_ADS_ENABLED</key>
 	<false></false>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -25,6 +25,6 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true></true>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:238219067415:ios:6c039b6fa4b89cd1f5dc52</string>
+	<string>1:571700242390:ios:13a6132b3ec1e5f081e677</string>
 </dict>
 </plist>
